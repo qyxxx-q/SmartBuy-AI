@@ -1,0 +1,651 @@
+{
+  "budget": {
+    "accessories": "鼠标、转接器与必要软件；台式机还需显示器和键鼠",
+    "accessories_amount": null,
+    "label": "超出预算",
+    "limit": 6000.0,
+    "note": "参考价不保证你所需配置可按此价购买。当前不构成预算内推荐。这笔差额尚未计入配件和运费；请核对必要配件报价后，再确认实际总支出。",
+    "product_price": 8499.0,
+    "remaining": -2499.0
+  },
+  "checklist": [
+    {
+      "body": "对照型号、容量、地区、全新或二手状态及装箱清单；鼠标、转接器与必要软件；台式机还需显示器和键鼠。先统一配置，再把最终支付总额与预算对照。",
+      "title": "先核对完整配置"
+    },
+    {
+      "body": "先列出必须运行的软件、插件和游戏，再检查系统兼容性。编程学习要核对开发工具；游戏或剪辑要看对应软件的实际测试，官网有芯片参数并不等于帧率或渲染速度已经达标。",
+      "title": "再确认实际体验"
+    },
+    {
+      "body": "核对经营主体、官方或自营身份、发票、保修与到货时间。补贴、会员券、以旧换新满足条件后再计算；问清拆封、试用和退换规则，超出硬预算时先不下单。",
+      "title": "最后确认店铺与售后"
+    }
+  ],
+  "comparison": {
+    "cautions": [
+      "“差异”表示官方原文不同，不自动判定谁更好；未知项不等于不支持。",
+      "亮度、续航、重量等需保留配置与测试条件；多维分值是当前偏好的规则分，不是实测结果。"
+    ],
+    "counts": {
+      "different": 5,
+      "same": 2,
+      "total": 7,
+      "unknown": 0
+    },
+    "decisions": [
+      {
+        "advantages": [
+          {
+            "basis": "24 GB",
+            "label": "性能参数",
+            "metric": "performance",
+            "rule": "按本类产品预设区间换算参考分"
+          }
+        ],
+        "product_id": 127,
+        "text": "优先考虑 联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199，如果你更关注性能参数。当前超出预算，仅供比较。"
+      },
+      {
+        "advantages": [
+          {
+            "basis": "¥5,299 / 预算 ¥6,000",
+            "label": "预算余量",
+            "metric": "price",
+            "rule": "平台公开参考价，预算分按75%计入；容量、成色、库存和优惠条件尚需核对"
+          }
+        ],
+        "product_id": 143,
+        "text": "优先考虑 联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385，如果你更关注预算余量。"
+      }
+    ],
+    "groups": [
+      {
+        "id": "spec-group-0",
+        "name": "基本信息",
+        "rows": [
+          {
+            "group": "基本信息",
+            "label": "操作系统",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "操作系统",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "Windows 11 家庭中文版"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "操作系统",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "Windows 11 家庭中文版"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-1",
+        "name": "核心配置",
+        "rows": [
+          {
+            "group": "核心配置",
+            "label": "完整配置原文",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "完整配置原文",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "AMD 锐龙 7 H 255丨Windows 11 家庭中文版丨16英寸丨24GB丨1T SSD丨集成显卡丨深灰色"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "完整配置原文",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "英特尔酷睿 Ultra5-125H/Windows 11 家庭中文版/14英寸/16GB/512G SSD/集成显卡/霜雪银"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "处理器",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "处理器",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "AMD 锐龙 7 H 255"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "处理器",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "英特尔酷睿 Ultra5-125H"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "内存",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "内存",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "24GB"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "内存",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "16GB"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "硬盘",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "硬盘",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "1T SSD"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "硬盘",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "512G SSD"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "显卡",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "显卡",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "集成显卡"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "显卡",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "集成显卡"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-2",
+        "name": "屏幕与显示",
+        "rows": [
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "屏幕",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+                "value": "16英寸"
+              },
+              {
+                "collected_at": "2026-10-31T02:45:15+00:00",
+                "label": "屏幕",
+                "section": "官网商城当前列表",
+                "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+                "value": "14英寸"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "product_ids": [
+      127,
+      143
+    ]
+  },
+  "decision": {
+    "conclusion": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199 当前超出预算，不属于本次预算内推荐。预算是硬上限时，先看预算内替代项，不急着下单。",
+    "note": "特别留意：续航参数、尺寸重量 尚未核实。",
+    "status": "暂缓下单",
+    "summary": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+    "tone": "warning"
+  },
+  "generated_at": "2026-10-31T06:35:38.935152+00:00",
+  "limitations": [
+    "参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+    "报价采集日期与报告生成日期分别记录；超过有效期或不符合地区、库存和配置条件的报价不用于预算推荐。"
+  ],
+  "peer": {
+    "brand": "联想",
+    "budget_status": "平台参考价在预算内，配置待核对",
+    "category": "电脑",
+    "confidence": 48.4,
+    "facts": {
+      "memory": {
+        "display": "16 GB",
+        "label": "内存",
+        "max": 16.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+        "text": "16GB",
+        "unit": "GB",
+        "value": 16.0
+      },
+      "screen_inches": {
+        "display": "14 英寸",
+        "label": "屏幕",
+        "max": 14.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+        "text": "14英寸",
+        "unit": "英寸",
+        "value": 14.0
+      }
+    },
+    "id": 143,
+    "image_url": null,
+    "name": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385",
+    "offer": {
+      "amount": 5299.0,
+      "availability": "unknown",
+      "condition_note": "全新检索，所选配置和库存需核对",
+      "conditions": "联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。",
+      "currency": "CNY",
+      "id": 371,
+      "item_condition": "new",
+      "merchant": "联想中国官方商城",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "platform": "品牌官网",
+      "price_basis": "listing",
+      "price_type": "商城展示参考价",
+      "product_id": 143,
+      "purchase_url": "https://item.lenovo.com.cn/product/1037385.html",
+      "region": "中国大陆",
+      "snapshot_path": "data\\marketplace_snapshots\\a92ad1b268c2b3a73c04da538d889df14d171d137ed57d8672bea27aa536e0ec.html",
+      "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+      "variant": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银；英特尔酷睿 Ultra5-125H/Windows 11 家庭中文版/14英寸/16GB/512G SSD/集成显卡/霜雪银"
+    },
+    "parameter_region_note": "",
+    "price": 5299.0,
+    "recommendation_eligible": true,
+    "recommendation_tier": "reference",
+    "score": 30.79,
+    "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+    "subcategory": "轻薄笔记本"
+  },
+  "product": {
+    "brand": "联想",
+    "budget_status": "超出预算",
+    "category": "电脑",
+    "confidence": 48.4,
+    "facts": {
+      "memory": {
+        "display": "24 GB",
+        "label": "内存",
+        "max": 24.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+        "text": "24GB",
+        "unit": "GB",
+        "value": 24.0
+      },
+      "screen_inches": {
+        "display": "16 英寸",
+        "label": "屏幕",
+        "max": 16.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+        "text": "16英寸",
+        "unit": "英寸",
+        "value": 16.0
+      }
+    },
+    "id": 127,
+    "image_url": "/api/product-images/d9485dac764d705203c605c5988a9b7bd10d123a22cfac851e5bc59715da9867.png",
+    "name": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199",
+    "offer": {
+      "amount": 8499.0,
+      "availability": "unknown",
+      "condition_note": "全新检索，所选配置和库存需核对",
+      "conditions": "联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。",
+      "currency": "CNY",
+      "id": 366,
+      "item_condition": "new",
+      "merchant": "联想中国官方商城",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "platform": "品牌官网",
+      "price_basis": "listing",
+      "price_type": "商城展示参考价",
+      "product_id": 127,
+      "purchase_url": "https://item.lenovo.com.cn/product/1057199.html",
+      "region": "中国大陆",
+      "snapshot_path": "data\\marketplace_snapshots\\a92ad1b268c2b3a73c04da538d889df14d171d137ed57d8672bea27aa536e0ec.html",
+      "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+      "variant": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色；AMD 锐龙 7 H 255丨Windows 11 家庭中文版丨16英寸丨24GB丨1T SSD丨集成显卡丨深灰色"
+    },
+    "parameter_region_note": "",
+    "price": 8499.0,
+    "recommendation_eligible": false,
+    "recommendation_tier": "reference",
+    "score": 13.53,
+    "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+    "subcategory": "轻薄笔记本"
+  },
+  "profile": {
+    "budget": 6000.0,
+    "category": "电脑",
+    "needs": "核对预算、配置和使用体验",
+    "scenario": "办公",
+    "summary": null,
+    "weights": {
+      "battery": 14.0,
+      "camera": 7.0,
+      "ease": 12.0,
+      "performance": 22.0,
+      "portability": 12.0,
+      "price": 23.0,
+      "screen": 10.0
+    }
+  },
+  "quotes": [
+    {
+      "active": true,
+      "amount": 8499.0,
+      "availability": "unknown",
+      "conditions": "联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。",
+      "historical": null,
+      "item_condition": "new",
+      "merchant": "联想中国官方商城",
+      "name": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "price_basis": "listing",
+      "price_type": "商城展示参考价",
+      "product_id": 127,
+      "source_id": "S03",
+      "status": "超出预算",
+      "url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199",
+      "variant": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色；AMD 锐龙 7 H 255丨Windows 11 家庭中文版丨16英寸丨24GB丨1T SSD丨集成显卡丨深灰色"
+    },
+    {
+      "active": true,
+      "amount": 5299.0,
+      "availability": "unknown",
+      "conditions": "联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。",
+      "historical": null,
+      "item_condition": "new",
+      "merchant": "联想中国官方商城",
+      "name": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "price_basis": "listing",
+      "price_type": "商城展示参考价",
+      "product_id": 143,
+      "source_id": "S04",
+      "status": "平台参考价在预算内，配置待核对",
+      "url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+      "variant": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银；英特尔酷睿 Ultra5-125H/Windows 11 家庭中文版/14英寸/16GB/512G SSD/集成显卡/霜雪银"
+    }
+  ],
+  "reasons": [
+    {
+      "check": "带着必须使用的软件或游戏清单，核对系统与配置；有条件时查看同配置实测。",
+      "evidence": "24 GB",
+      "known": true,
+      "label": "性能参数",
+      "meaning": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+      "metric": "performance",
+      "rule": "按本类产品预设区间换算参考分",
+      "source_id": "S01",
+      "title": "日常配置是否够用"
+    },
+    {
+      "check": "区分视频播放、联网办公和高负载测试，核对相同内存、屏幕及电池配置。",
+      "evidence": "当前资料未提供足够的可核对信息",
+      "known": false,
+      "label": "续航参数",
+      "meaning": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+      "metric": "battery",
+      "rule": "当前资料尚未明确这项能力；未披露不代表不支持。",
+      "source_id": null,
+      "title": "少一点充电焦虑"
+    },
+    {
+      "check": "一起考虑充电器与常用配件重量；每天背着走时，尽量试背实际组合。",
+      "evidence": "当前资料未提供足够的可核对信息",
+      "known": false,
+      "label": "尺寸重量",
+      "meaning": "经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。",
+      "metric": "portability",
+      "rule": "当前资料尚未明确这项能力；未披露不代表不支持。",
+      "source_id": null,
+      "title": "带着走是否轻松"
+    }
+  ],
+  "sections": [
+    {
+      "body": "你的需求：核对预算、配置和使用体验。\n预算上限：¥6,000；手动选择的报告对象：联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199。\n联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199 当前超出预算，不属于本次预算内推荐。预算是硬上限时，先看预算内替代项，不急着下单。\n特别留意：续航参数、尺寸重量 尚未核实。",
+      "title": "选购结论"
+    },
+    {
+      "body": "日常配置是否够用\n依据：24 GB。\n先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。\n购买前：带着必须使用的软件或游戏清单，核对系统与配置；有条件时查看同配置实测。\n少一点充电焦虑\n依据：当前资料未提供足够的可核对信息。\n续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。\n购买前：区分视频播放、联网办公和高负载测试，核对相同内存、屏幕及电池配置。\n带着走是否轻松\n依据：当前资料未提供足够的可核对信息。\n经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。\n购买前：一起考虑充电器与常用配件重量；每天背着走时，尽量试背实际组合。",
+      "title": "为什么适合你"
+    },
+    {
+      "body": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199：当前超出预算，仅供比较；先核价或选择预算内候选。这条价格是公开参考价，尚不能承诺实际可购。\n采集报价高出 ¥3,200，先确认这些差别是否值得你的额外支出。需要补充：续航参数、尺寸重量、操作与兼容。\n联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385：你更关注预算余量时，可以先核对这款。这条价格是公开参考价，尚不能承诺实际可购。\n需要补充：续航参数、尺寸重量、操作与兼容。\n两条报价相差 ¥3,200；配置、套装或价格条件可能不同，不直接当作同规格性价比结论。\n联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199：¥8,499；超出预算。报价来源：https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199\n联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385：¥5,299；平台参考价在预算内，配置待核对。报价来源：https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385\n参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+      "title": "两款怎么取舍"
+    },
+    {
+      "body": "超出预算：¥2,499。\n参考价不保证你所需配置可按此价购买。当前不构成预算内推荐。这笔差额尚未计入配件和运费；请核对必要配件报价后，再确认实际总支出。\n配件核对：鼠标、转接器与必要软件；台式机还需显示器和键鼠。\n联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199：¥8,499；超出预算。\n联想中国官方商城 · 商城展示参考价\n联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色；AMD 锐龙 7 H 255丨Windows 11 家庭中文版丨16英寸丨24GB丨1T SSD丨集成显卡丨深灰色\n采集时间：2026-10-31T02:45:15+00:00\n条件：联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。\n联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385：¥5,299；平台参考价在预算内，配置待核对。\n联想中国官方商城 · 商城展示参考价\n联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银；英特尔酷睿 Ultra5-125H/Windows 11 家庭中文版/14英寸/16GB/512G SSD/集成显卡/霜雪银\n采集时间：2026-10-31T02:45:15+00:00\n条件：联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。",
+      "title": "预算与报价凭据"
+    },
+    {
+      "body": "1. 先核对完整配置：对照型号、容量、地区、全新或二手状态及装箱清单；鼠标、转接器与必要软件；台式机还需显示器和键鼠。先统一配置，再把最终支付总额与预算对照。\n2. 再确认实际体验：先列出必须运行的软件、插件和游戏，再检查系统兼容性。编程学习要核对开发工具；游戏或剪辑要看对应软件的实际测试，官网有芯片参数并不等于帧率或渲染速度已经达标。\n3. 最后确认店铺与售后：核对经营主体、官方或自营身份、发票、保修与到货时间。补贴、会员券、以旧换新满足条件后再计算；问清拆封、试用和退换规则，超出硬预算时先不下单。",
+      "title": "购买行动清单"
+    },
+    {
+      "body": "[S01] 联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199 · 参数原文：https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199；采集于 2026-10-31T02:45:15+00:00\n[S02] 联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385 · 参数原文：https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385；采集于 2026-10-31T02:45:15+00:00\n[S03] 联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199 · 联想中国官方商城：https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199；采集于 2026-10-31T02:45:15+00:00\n[S04] 联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385 · 联想中国官方商城：https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385；采集于 2026-10-31T02:45:15+00:00\n参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。\n报价采集日期与报告生成日期分别记录；超过有效期或不符合地区、库存和配置条件的报价不用于预算推荐。",
+      "title": "来源与说明"
+    }
+  ],
+  "selection": {
+    "eligible_count": 11,
+    "is_system_choice": false,
+    "label": "手动选择的报告对象",
+    "mode": "manual",
+    "rank": null
+  },
+  "sources": [
+    {
+      "host": "s.lenovo.com.cn",
+      "id": "S01",
+      "kind": "参数",
+      "label": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199 · 参数原文",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199"
+    },
+    {
+      "host": "s.lenovo.com.cn",
+      "id": "S02",
+      "kind": "参数",
+      "label": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385 · 参数原文",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385"
+    },
+    {
+      "host": "s.lenovo.com.cn",
+      "id": "S03",
+      "kind": "报价",
+      "label": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199 · 联想中国官方商城",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1057199"
+    },
+    {
+      "host": "s.lenovo.com.cn",
+      "id": "S04",
+      "kind": "报价",
+      "label": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385 · 联想中国官方商城",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385"
+    }
+  ],
+  "system_choice": {
+    "brand": "联想",
+    "budget_status": "平台参考价在预算内，配置待核对",
+    "category": "电脑",
+    "confidence": 48.4,
+    "facts": {
+      "memory": {
+        "display": "16 GB",
+        "label": "内存",
+        "max": 16.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+        "text": "16GB",
+        "unit": "GB",
+        "value": 16.0
+      },
+      "screen_inches": {
+        "display": "14 英寸",
+        "label": "屏幕",
+        "max": 14.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+        "text": "14英寸",
+        "unit": "英寸",
+        "value": 14.0
+      }
+    },
+    "id": 143,
+    "image_url": null,
+    "name": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385",
+    "offer": {
+      "amount": 5299.0,
+      "availability": "unknown",
+      "condition_note": "全新检索，所选配置和库存需核对",
+      "conditions": "联想商城当前搜索列表的SKU展示价，不采用旧活动页、划线价、补贴和优惠券。尚未核验配送地区、库存及结算价，请进入具体SKU核对后购买。",
+      "currency": "CNY",
+      "id": 371,
+      "item_condition": "new",
+      "merchant": "联想中国官方商城",
+      "observed_at": "2026-10-31T02:45:15+00:00",
+      "platform": "品牌官网",
+      "price_basis": "listing",
+      "price_type": "商城展示参考价",
+      "product_id": 143,
+      "purchase_url": "https://item.lenovo.com.cn/product/1037385.html",
+      "region": "中国大陆",
+      "snapshot_path": "data\\marketplace_snapshots\\a92ad1b268c2b3a73c04da538d889df14d171d137ed57d8672bea27aa536e0ec.html",
+      "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+      "variant": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银；英特尔酷睿 Ultra5-125H/Windows 11 家庭中文版/14英寸/16GB/512G SSD/集成显卡/霜雪银"
+    },
+    "parameter_region_note": "",
+    "price": 5299.0,
+    "recommendation_eligible": true,
+    "recommendation_tier": "reference",
+    "score": 30.79,
+    "source_url": "https://s.lenovo.com.cn/search/?key=%E5%B0%8F%E6%96%B0#sku=1037385",
+    "subcategory": "轻薄笔记本"
+  },
+  "title": "6,000元电脑选购建议",
+  "tradeoff": {
+    "caveat": "参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+    "choices": [
+      {
+        "caution": "采集报价高出 ¥3,200，先确认这些差别是否值得你的额外支出。需要补充：续航参数、尺寸重量、操作与兼容。",
+        "name": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色 · 1057199",
+        "product_id": 127,
+        "when": "当前超出预算，仅供比较；先核价或选择预算内候选。这条价格是公开参考价，尚不能承诺实际可购。"
+      },
+      {
+        "caution": "需要补充：续航参数、尺寸重量、操作与兼容。",
+        "name": "联想(Lenovo)小新14 2024款 14英寸轻薄笔记本电脑 霜雪银 · 1037385",
+        "product_id": 143,
+        "when": "你更关注预算余量时，可以先核对这款。这条价格是公开参考价，尚不能承诺实际可购。"
+      }
+    ],
+    "gap_note": "两条报价相差 ¥3,200；配置、套装或价格条件可能不同，不直接当作同规格性价比结论。",
+    "price_gap": 3200.0,
+    "rows": [
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "性能参数",
+        "metric": "performance",
+        "note": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+        "values": [
+          "24 GB",
+          "16 GB"
+        ]
+      },
+      {
+        "known": [
+          false,
+          false
+        ],
+        "label": "续航参数",
+        "metric": "battery",
+        "note": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+        "values": [
+          "未披露 / 暂无可核对信息",
+          "未披露 / 暂无可核对信息"
+        ]
+      },
+      {
+        "known": [
+          false,
+          false
+        ],
+        "label": "尺寸重量",
+        "metric": "portability",
+        "note": "经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。",
+        "values": [
+          "未披露 / 暂无可核对信息",
+          "未披露 / 暂无可核对信息"
+        ]
+      },
+      {
+        "known": [
+          false,
+          false
+        ],
+        "label": "操作与兼容",
+        "metric": "ease",
+        "note": "先核对常用设备、软件和操作方式，连接功能多不代表操作一定简单。",
+        "values": [
+          "未披露 / 暂无可核对信息",
+          "未披露 / 暂无可核对信息"
+        ]
+      }
+    ]
+  },
+  "version": 2
+}

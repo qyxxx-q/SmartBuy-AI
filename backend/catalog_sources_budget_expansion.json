@@ -1,0 +1,22 @@
+[
+  {"brand":"小米","category":"手机","name":"REDMI Note 14（国行）","identity":"Redmi Note 14","url":"https://www.mi.com/prod/redmi-note-14/specs"},
+  {"brand":"vivo","category":"手机","name":"vivo Y300t","identity":"Y300t","url":"https://www.vivo.com.cn/vivo/param/y300t"},
+  {"brand":"vivo","category":"手机","name":"vivo Y300","identity":"Y300","url":"https://www.vivo.com.cn/vivo/param/y300"},
+  {"brand":"vivo","category":"手机","name":"vivo Y400","identity":"Y400","url":"https://www.vivo.com.cn/vivo/param/y400"},
+  {"brand":"iQOO","category":"手机","name":"iQOO Z10x","identity":"Z10","url":"https://www.vivo.com.cn/vivo/param/iqooz10x"},
+  {"brand":"iQOO","category":"手机","name":"iQOO Neo10","identity":"Neo10","url":"https://www.vivo.com.cn/vivo/param/iqooneo10"},
+  {"brand":"iQOO","category":"手机","name":"iQOO Neo10 Pro","identity":"Neo10 Pro","url":"https://www.vivo.com.cn/vivo/param/iqooneo10pro"},
+  {"brand":"realme 真我","category":"手机","name":"真我 15T","identity":"15T","url":"https://www.realme.com/cn/realme-15-t/specs"},
+  {"brand":"realme 真我","category":"手机","name":"真我 V70s","identity":"V70s","url":"https://www.realme.com/cn/more-products/realme-v-70s/specs"},
+  {"brand":"realme 真我","category":"手机","name":"真我 V70","identity":"V70","url":"https://www.realme.com/cn/more-products/realme-v-70/specs"},
+  {"brand":"realme 真我","category":"手机","name":"真我 GT8 Pro","identity":"GT8 Pro","url":"https://www.realme.com/cn/realme-gt-8-pro/specs"},
+  {"brand":"realme 真我","category":"手机","name":"真我 Neo8","identity":"Neo8","url":"https://www.realme.com/cn/realme-neo-8/specs"},
+  {"brand":"华硕","category":"电脑","name":"华硕 天选5 锐龙版","identity":"天选5","subcategory":"游戏笔记本","url":"https://www.asus.com.cn/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15-2024/techspec/"},
+  {"brand":"华硕","category":"电脑","name":"ROG Ally X 2024","identity":"Ally X","subcategory":"游戏掌机","url":"https://rog.asus.com.cn/gaming-handhelds/rog-ally/rog-ally-x-2024/spec/"},
+  {"brand":"DJI 大疆","category":"相机","name":"Osmo Action 5 Pro","region":"全球版","subcategory":"运动相机","url":"https://www.dji.com/global/osmo-action-5-pro/specs"},
+  {"brand":"DJI 大疆","category":"相机","name":"Osmo Pocket 3","region":"全球版","subcategory":"口袋云台相机","url":"https://www.dji.com/global/osmo-pocket-3/specs"},
+  {"brand":"DJI 大疆","category":"相机","name":"Osmo Action 4","region":"全球版","subcategory":"运动相机","url":"https://www.dji.com/global/osmo-action-4/specs"},
+  {"brand":"DJI 大疆","category":"相机","name":"Osmo 360","region":"全球版","subcategory":"全景相机","url":"https://www.dji.com/global/osmo-360/specs"},
+  {"brand":"富士","category":"相机","name":"FUJIFILM X-M5","identity":"X-M5","subcategory":"APS-C微单","url":"https://fujifilm-x.com/zh-cn/products/cameras/x-m5/specifications/"},
+  {"brand":"富士","category":"相机","name":"FUJIFILM X100VI","identity":"X100VI","subcategory":"便携数码相机","url":"https://fujifilm-x.com/zh-cn/products/cameras/x100vi/specifications/"}
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "Legion Pro 5 16IRX9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Pro_5_16IRX9/Legion_Pro_5_16IRX9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "LOQ 15IRX9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX9/LOQ_15IRX9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "ThinkPad E14 Gen 6 Intel",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_6_Intel/ThinkPad_E14_Gen_6_Intel_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "ThinkBook 14 G7 IML",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkBook/ThinkBook_14_G7_IML/ThinkBook_14_G7_IML_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "IdeaPad Slim 5 14AHP9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Slim_5_14AHP9/IdeaPad_Slim_5_14AHP9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "Yoga Pro 7 14AHP9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/Yoga/Yoga_Pro_7_14AHP9/Yoga_Pro_7_14AHP9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  }
+]

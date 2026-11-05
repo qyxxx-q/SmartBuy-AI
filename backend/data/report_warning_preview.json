@@ -1,0 +1,1815 @@
+{
+  "budget": {
+    "accessories": "保护壳、充电器是否随附，以及必要的数据迁移与设置",
+    "accessories_amount": null,
+    "label": "超出预算",
+    "limit": 2000.0,
+    "note": "当前不构成预算内推荐。这笔差额尚未计入配件和运费；请核对必要配件报价后，再确认实际总支出。",
+    "product_price": 10999.0,
+    "remaining": -8999.0
+  },
+  "checklist": [
+    {
+      "body": "对照型号、容量、地区、全新或二手状态及装箱清单；保护壳、充电器是否随附，以及必要的数据迁移与设置。先统一配置，再把最终支付总额与预算对照。",
+      "title": "先核对完整配置"
+    },
+    {
+      "body": "先看你每天的使用方式：通勤刷视频更值得关注续航和重量；拍娃、旅行则要看常用焦段的实拍。不要只因为芯片型号更新就提高预算。",
+      "title": "再确认实际体验"
+    },
+    {
+      "body": "核对经营主体、官方或自营身份、发票、保修与到货时间。补贴、会员券、以旧换新满足条件后再计算；问清拆封、试用和退换规则，超出硬预算时先不下单。",
+      "title": "最后确认店铺与售后"
+    }
+  ],
+  "comparison": {
+    "cautions": [
+      "“差异”表示官方原文不同，不自动判定谁更好；未知项不等于不支持。",
+      "亮度、续航、重量等需保留配置与测试条件；多维分值是当前偏好的规则分，不是实测结果。"
+    ],
+    "counts": {
+      "different": 43,
+      "same": 9,
+      "total": 55,
+      "unknown": 3
+    },
+    "decisions": [
+      {
+        "advantages": [
+          {
+            "basis": "16 GB",
+            "label": "性能参数",
+            "metric": "performance",
+            "rule": "按本类产品预设区间换算参考分"
+          },
+          {
+            "basis": "USB-C、蓝牙、无线网络、NFC",
+            "label": "操作与兼容",
+            "metric": "ease",
+            "rule": "已明确记载的连接和辅助功能覆盖；平台兼容性仍需确认"
+          },
+          {
+            "basis": "50 MP",
+            "label": "影像参数",
+            "metric": "camera",
+            "rule": "按本类产品预设区间换算参考分"
+          }
+        ],
+        "product_id": 83,
+        "text": "优先考虑 OPPO Find N6，如果你更关注性能参数、操作与兼容、影像参数。当前超出预算，仅供比较。"
+      },
+      {
+        "advantages": [
+          {
+            "basis": "¥1,699 / 预算 ¥2,000",
+            "label": "预算余量",
+            "metric": "price",
+            "rule": "预算内按剩余空间得到85–100分；预算外只能对比，不能进入推荐"
+          },
+          {
+            "basis": "6335–6500 mAh",
+            "label": "续航参数",
+            "metric": "battery",
+            "rule": "按本类产品预设区间换算参考分"
+          },
+          {
+            "basis": "212 g",
+            "label": "便携参数",
+            "metric": "portability",
+            "rule": "越轻便携参考分越高"
+          }
+        ],
+        "product_id": 86,
+        "text": "优先考虑 OPPO K15x，如果你更关注预算余量、续航参数、便携参数。"
+      }
+    ],
+    "groups": [
+      {
+        "id": "spec-group-0",
+        "name": "基本信息",
+        "rows": [
+          {
+            "group": "基本信息",
+            "label": "产品名称",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "产品名称",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "OPPO Find N6"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "产品名称",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "OPPO K15x"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "品牌",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "品牌",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "OPPO"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "品牌",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "OPPO"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "上市时间",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "上市时间",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "2026 年 3 月"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "上市时间",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "2026 年 9 月"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "进网型号",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "进网型号",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "Find N6：PLP110；Find N6 卫星通信版：PLP120"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "进网型号",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "PLT150"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "电信设备进网许可证编号",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "电信设备进网许可证编号",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "Find N6：02-D124-260178；Find N6 卫星通信版：00-D124-268084"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "电信设备进网许可证编号",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "02-D124-260513"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-1",
+        "name": "核心配置",
+        "rows": [
+          {
+            "group": "核心配置",
+            "label": "CPU频率",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "CPU频率",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "7 核心（2 超大核+5 大核）；最高主频 4.6GHz"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "CPU频率",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "8 核心（2 大核+6 小核）；最高主频 2.4GHz"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "处理平台",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "处理平台",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "第五代骁龙®8至尊版移动平台"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "处理平台",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "MediaTek 天玑6300"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "CPU核心数",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "CPU核心数",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "7 核"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "CPU核心数",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "8 核"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "GPU",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "GPU",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "Adreno™ 840@1200MHz"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "GPU",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "ARM Mali-G57 MC2@1072MHz"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "运行内存",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "运行内存",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "LPDDR5X"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "运行内存",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "LPDDR4X"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "机身存储",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "机身存储",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "UFS 4.1"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "机身存储",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "UFS 2.2"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "拓展卡",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "拓展卡",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "不支持"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "拓展卡",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "通信芯片",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "通信芯片",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "AI 通信芯片 R100"
+              },
+              null
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "运行内存 RAM",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "运行内存 RAM",
+                "section": "当前报价配置",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "16 GB；当前配置 16GB+512GB"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "运行内存 RAM",
+                "section": "当前报价配置",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "6 GB；当前配置 6GB+128GB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-2",
+        "name": "屏幕与显示",
+        "rows": [
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕类型",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕类型",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：折叠屏；副屏：直面屏"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕类型",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "直面屏"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕分辨率",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕分辨率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：QXGA+ 2480×2248 像素；副屏：FHD+ 2616×1140 像素"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕分辨率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "HD+ 1570×720 像素"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕占比",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕占比",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：96.4%；副屏：94.2%"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕占比",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "90.6%"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕亮度",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕亮度",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：；全局默认最高亮度：600 尼特典型值；全局激发最高亮度：1800 尼特典型值；副屏：；全局默认最高亮度：600 尼特典型值；全局激发最高亮度：1800 尼特典型值"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕亮度",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "全局默认最高亮度：700 尼特典型值；全局激发最高亮度：1125 尼特典型值"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "面板材质",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "面板材质",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：OLED 折叠屏；副屏：AMOLED 柔性屏"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "面板材质",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "LCD 屏"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "触控采样率",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "触控采样率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：最高 240Hz，默认 125Hz；副屏：最高 240Hz，默认 125Hz"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "触控采样率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "最高 240Hz，默认 120Hz"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "色域",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "色域",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏；标准模式：100% DCI-P3；自然模式：100% DCI-P3；鲜明模式：100% DCI-P3；副屏；标准模式：100% DCI-P3；自然模式：100% DCI-P3；鲜明模式：100% DCI-P3"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "色域",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "生动模式：83% NTSC；自然模式：100% sRGB"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕色彩",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕色彩",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：10.7 亿色（10-bit）；副屏：10.7 亿色（10-bit）"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕色彩",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1670 万色（8-bit）"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕刷新率",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕刷新率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：1-120 Hz 智能切换，最高支持 120Hz；副屏：1-120 Hz 智能切换，最高支持 120Hz"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕刷新率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "60/90/120Hz 智能切换，最高支持 120Hz"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕像素密度",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕像素密度",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：412 PPI；副屏：431 PPI"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕像素密度",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "256 PPI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-3",
+        "name": "影像与声音",
+        "rows": [
+          {
+            "group": "影像与声音",
+            "label": "蓝牙音频规格",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "蓝牙音频规格",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "SBC，AAC，LDAC，aptX，aptX HD，aptX Adaptive，LHDC 5.0"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "蓝牙音频规格",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "SBC，AAC，LDAC，aptX，aptX HD"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "后置摄像头",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "后置摄像头",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "2 亿像素广角摄像头：f/1.8，等效焦距 23 毫米，7P 镜头，支持 AF 自动对焦，支持两轴 OIS 防抖；5000 万像素超广角摄像头：f/2.0，等效焦距 15 毫米，6P 镜头，支持 AF 自动对焦，120°广视角；5000 万像素长焦摄像头：f/2.7，等效焦距 70 毫米，4P 镜头，支持 AF 自动对焦，支持两轴 OIS 防抖；丹霞色彩还原镜头：f/2.4，等效焦距 21 毫米，3P 镜头；照片拍摄最高支持 3 倍光学变焦，最高支持 120 倍数码变焦"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "后置摄像头",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1300 万像素广角摄像头：f/2.2，等效焦距 27 毫米，4P 镜头，支持 AF 自动对焦；照片拍摄支持 10 倍数码变焦"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "前置摄像头",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "前置摄像头",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：；2000 万像素摄像头：ƒ/2.4，等效焦距 21 毫米，4P 镜头；副屏：；2000 万像素摄像头：ƒ/2.4，等效焦距 21 毫米，4P 镜头 "
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "前置摄像头",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "500 万像素摄像头：f/2.2，等效焦距 27 毫米，3P 镜头"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "后置拍摄模式",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "后置拍摄模式",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "照片，视频，人像，夜景，全景，慢动作，长曝光，多景录像，延时摄影，萌拍，XPAN，哈苏超清，大师，AI 证件照，超级文本，扫一扫，专业视频"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "后置拍摄模式",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "照片，视频，人像，夜景，全景，慢动作，多景录像，延时摄影，萌拍，高像素，AI 证件照，专业模式，文档"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "前置拍摄模式",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "前置拍摄模式",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "照片，视频，人像，夜景，全景，多景录像，延时摄影，萌拍，AI 证件照"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "前置拍摄模式",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "照片，视频，人像，夜景，全景，多景录像，延时摄影，萌拍，AI 证件照，美颜自拍，屏幕补光，高像素"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "后置视频拍摄",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "后置视频拍摄",
+                "section": "视频拍摄",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "4K 基础拍摄：120 fps，60 fps，30 fps；1080P 基础拍摄：120 fps，60 fps，30 fps；720P 基础拍摄：30 fps；4K 视频防抖拍摄：60 fps，30 fps；1080P 视频防抖拍摄：60 fps，30 fps；4K 慢动作视频拍摄：120 fps；1080P 慢动作视频拍摄：240 fps，120 fps；720P 慢动作视频拍摄：480 fps，240 fps；4K 延时摄影拍摄：30 fps；1080P 延时摄影拍摄：30 fps；4K 杜比视界拍摄：120 fps，60 fps，30 fps；1080P 杜比视界拍摄：120 fps，60 fps，30 fps；支持多景录像视频拍摄；支持 HDR 视频拍摄；支持视频变焦拍摄：最高支持 3 倍光学变焦，最高支持 18 倍数码变焦"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "后置视频拍摄",
+                "section": "视频拍摄",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1080P 基础拍摄：60 fps，30 fps；720P 基础拍摄：60 fps，30 fps；720P 慢动作视频拍摄：120 fps；1080P 延时摄影拍摄：30 fps；支持多景录像视频拍摄：720P@30fps；支持视频变焦拍摄：最高支持 10 倍数码变焦"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "前置视频拍摄",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "前置视频拍摄",
+                "section": "视频拍摄",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "4K 基础拍摄：30 fps；1080P 基础拍摄：30 fps；720P 基础拍摄：30 fps；1080P 视频防抖拍摄：30 fps；720P 视频防抖拍摄：30 fps；4K 延时摄影拍摄：30 fps；1080P 延时摄影拍摄：30 fps；支持多景录像视频拍摄；支持 HDR 视频拍摄"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "前置视频拍摄",
+                "section": "视频拍摄",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1080P 基础拍摄：30 fps；720P 基础拍摄：30 fps；1080P 延时摄影拍摄：30 fps；支持多景录像视频拍摄"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-4",
+        "name": "续航与充电",
+        "rows": [
+          {
+            "group": "续航与充电",
+            "label": "电池容量",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "电池容量",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "2775+3225 mAh（典型值），等效 6000 mAh 电池能量；2700+3150 mAh（额定值），等效 5850 mAh 电池能量"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "电池容量",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "6500 mAh/25.22 Wh（典型值）；6335 mAh/24.58 Wh（额定值）"
+              }
+            ]
+          },
+          {
+            "group": "续航与充电",
+            "label": "快速充电",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "快速充电",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "最大支持：80 W 超级闪充，80W UFCS 融合快充 ；兼容：67 W 及以下超级闪充，44 W 三方 UFCS 融合快充，55 W PPS，18W PD，18 W QC"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "快速充电",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "最大支持： 45 W 超级闪充，45 W UFCS 融合快充 ；兼容： 33 W 及以下超级闪充，44 W 三方 UFCS 融合快充，33 W PPS，13.5 W PD"
+              }
+            ]
+          },
+          {
+            "group": "续航与充电",
+            "label": "无线充电",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "无线充电",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "最大支持：50 W 无线闪充"
+              },
+              null
+            ]
+          },
+          {
+            "group": "续航与充电",
+            "label": "充电接口",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "充电接口",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "USB Type-C"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "充电接口",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "USB Type-C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-5",
+        "name": "尺寸与便携",
+        "rows": [
+          {
+            "group": "尺寸与便携",
+            "label": "屏幕尺寸",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "屏幕尺寸",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "主屏：8.12 英寸；副屏：6.62 英寸"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕尺寸",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "6.75 英寸"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "高度",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "高度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "展开：159.87mm；折叠：159.87mm"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "高度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "166.61mm"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "宽度",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "宽度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "展开：145.58mm；折叠：74.12mm"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "宽度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "78.51mm"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "厚度",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "厚度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "展开：4.21mm；折叠：8.93mm"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "厚度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "8.61mm"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "重量",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "重量",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "约 225g"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "重量",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "约 212g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-6",
+        "name": "连接与功能",
+        "rows": [
+          {
+            "group": "连接与功能",
+            "label": "WLAN功能",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "WLAN功能",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "支持 Wi-Fi 7（802.11be）；支持 Wi-Fi 6（802.11ax）；支持 Wi-Fi 5（802.11ac）；支持 802.11a/b/g/n；支持 Wi-Fi Display；支持 WLAN 网络分享；支持网络叠加：Wi-Fi 2.4GHz 2×2+Wi-Fi 5GHz 2×2 并发；支持 Wi-Fi 5GHz 160MHz；支持 2×2 MIMO"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "WLAN功能",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持 Wi-Fi 5（802.11ac）；支持 802.11a/b/g/n；支持 Wi-Fi Display；支持 WLAN 网络分享"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "卫星通信",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "卫星通信",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "卫星通信功能仅 OPPO Find N6 卫星通信版支持，仅支持北斗卫星短信，首次使用前需开通运营商北斗卫星短信相关业务；该功能与运营商部署相关，具体支持情况请以运营商官方信息为准。"
+              },
+              null
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "传输协议",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "传输协议",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "USB 3.2 Gen 1"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "传输协议",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "USB 2.0"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "数据接口",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "数据接口",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "USB Type-C"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "数据接口",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "USB Type-C"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "耳机插孔",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "耳机插孔",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "Type-C 接口耳机（支持 Type-C 数字耳机但不支持 Type-C 模拟耳机）"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "耳机插孔",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "3.5 毫米接口耳机"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "NFC",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "NFC",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "支持读写 NFC 卡片（13.56MHz 的 NFC 卡片）；支持 NFC-SIM（只支持 SIM1 卡槽）；支持 HCE 支付；支持 eSE（支持 300+城市地铁公交乘车，支持 OPPO Pay，门禁卡，车钥匙及公民网络电子身份标识（eID）等多项功能。轻触一下，便捷通行，安全支付。）"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "NFC",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "不支持"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "是否支持双卡",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "是否支持双卡",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "支持"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "是否支持双卡",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "SIM卡类型",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "SIM卡类型",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "Nano-SIM卡，Nano-USIM卡"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "SIM卡类型",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "Nano-SIM 卡，Nano-USIM 卡"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "网络频段",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "网络频段",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "2G GSM：850/900/1800/1900MHz；2G CDMA：不支持；3G WCDMA：频段 1/2/4/5/6/8/19；4G LTE FDD：频段 1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/66/71；4G LTE TDD：频段 34/38/39/40/41/42/43/48；5G NR：n1/n2/n3/n5/n7/n8/n12/n13/n18/n20/n25/n26/n28/n38/n40/n41/n48/n66/n71/n75/n77/n78/n79/n80/n81/n83/n84/n89"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "网络频段",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "2G GSM：900/1800MHz；3G WCDMA：频段 1/5/8；4G LTE FDD：频段 1/3/5/8/28A；4G LTE TDD：频段 34/38/39/40/41；5G NR：n1/n3/n5/n8/n28A/n41/n48/n77/n78"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "运营商网络",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "运营商网络",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "移动，联通，电信，广电 VoLTE"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "运营商网络",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "移动，联通，电信，广电 VoLTE"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "指纹解锁方式",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "指纹解锁方式",
+                "section": "生物识别",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "指纹类别：侧边指纹；指纹原理：电容指纹；指纹技术：电容指纹"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "指纹解锁方式",
+                "section": "生物识别",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "指纹类别：侧边指纹；指纹原理：电容指纹；指纹技术：电容指纹"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "面部识别",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "面部识别",
+                "section": "生物识别",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "支持"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "面部识别",
+                "section": "生物识别",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "卫星定位",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "卫星定位",
+                "section": "定位功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "北斗（B1I+B1C+B2a），GPS（L1+L5），GLONASS（G1），Galileo（E1+E5a），QZSS（L1+L5）"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "卫星定位",
+                "section": "定位功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "北斗，GPS，GLONASS，Galileo，QZSS"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "其他",
+            "state": "same",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "其他",
+                "section": "定位功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "支持：A-GNSS 辅助定位，无线局域网定位，蜂窝网络定位"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "其他",
+                "section": "定位功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持：A-GNSS 辅助定位，无线局域网定位，蜂窝网络定位"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-7",
+        "name": "其他官方参数",
+        "rows": [
+          {
+            "group": "其他官方参数",
+            "label": "感应器类型",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-31T02:46:20+00:00",
+                "label": "感应器类型",
+                "section": "感应器",
+                "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+                "value": "接近感应器，环境光传感器，色温传感器，电子罗盘，加速度传感器，陀螺仪，侧边指纹传感器，霍尔传感器，红外遥控"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "感应器类型",
+                "section": "感应器",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "接近感应器，环境光传感器，电子罗盘，加速度传感器，侧边指纹传感器"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "product_ids": [
+      83,
+      86
+    ]
+  },
+  "decision": {
+    "conclusion": "OPPO Find N6 当前超出预算，不属于本次预算内推荐。预算是硬上限时，先看预算内替代项，不急着下单。",
+    "note": "购买前仍需确认实际体验和最终支付金额。",
+    "status": "暂缓下单",
+    "summary": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+    "tone": "warning"
+  },
+  "generated_at": "2026-10-31T06:35:38.245474+00:00",
+  "limitations": [
+    "参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+    "报价采集日期与报告生成日期分别记录；超过有效期或不符合地区、库存和配置条件的报价不用于预算推荐。"
+  ],
+  "peer": {
+    "brand": "OPPO",
+    "budget_status": "配置报价在预算内",
+    "category": "手机",
+    "confidence": 100.0,
+    "facts": {
+      "battery_mah": {
+        "display": "6335–6500 mAh",
+        "label": "电池容量",
+        "max": 6500.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "6500 mAh/25.22 Wh（典型值）；6335 mAh/24.58 Wh（额定值）",
+        "unit": "mAh",
+        "value": 6335.0
+      },
+      "camera_mp": {
+        "display": "13 MP",
+        "label": "后置摄像头",
+        "max": 13.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "1300 万像素广角摄像头：f/2.2，等效焦距 27 毫米，4P 镜头，支持 AF 自动对焦；照片拍摄支持 10 倍数码变焦",
+        "unit": "MP",
+        "value": 13.0
+      },
+      "memory": {
+        "display": "6 GB",
+        "label": "当前报价配置 RAM",
+        "max": 6.0,
+        "qualifier": "仅对应本次报价的具体配置，不取系列最高可选内存",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766",
+        "unit": "GB",
+        "value": 6.0
+      },
+      "refresh": {
+        "display": "120 Hz",
+        "label": "屏幕刷新率",
+        "max": 120.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "60/90/120Hz 智能切换，最高支持 120Hz",
+        "unit": "Hz",
+        "value": 120.0
+      },
+      "screen_inches": {
+        "display": "6.75 英寸",
+        "label": "屏幕尺寸",
+        "max": 6.75,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "6.75 英寸",
+        "unit": "英寸",
+        "value": 6.75
+      },
+      "weight": {
+        "display": "212 g",
+        "label": "重量",
+        "max": 212.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "约 212g",
+        "unit": "g",
+        "value": 212.0
+      }
+    },
+    "id": 86,
+    "image_url": "/api/product-images/9878fe2a42331979efeb4d8decb67f18c3e65d66cbae9d381268bd505e4fb315.png",
+    "name": "OPPO K15x",
+    "offer": {
+      "amount": 1699.0,
+      "availability": "in_stock",
+      "condition_note": "全新",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "currency": "CNY",
+      "id": 406,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "platform": "品牌官网",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 86,
+      "purchase_url": "",
+      "region": "中国大陆",
+      "snapshot_path": "data\\store_snapshots\\844871d527afaf5945aed74a64bb75533639ab20cf1d9d48075cf6596ca9b097.html",
+      "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+      "variant": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766"
+    },
+    "parameter_region_note": "",
+    "price": 1699.0,
+    "recommendation_eligible": true,
+    "recommendation_tier": "verified",
+    "score": 67.99,
+    "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+    "subcategory": "直板手机"
+  },
+  "product": {
+    "brand": "OPPO",
+    "budget_status": "超出预算",
+    "category": "手机",
+    "confidence": 100.0,
+    "facts": {
+      "battery_mah": {
+        "display": "3150–6000 mAh",
+        "label": "电池容量",
+        "max": 6000.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+        "text": "2775+3225 mAh（典型值），等效 6000 mAh 电池能量；2700+3150 mAh（额定值），等效 5850 mAh 电池能量",
+        "unit": "mAh",
+        "value": 3150.0
+      },
+      "camera_mp": {
+        "display": "50 MP",
+        "label": "后置摄像头",
+        "max": 50.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+        "text": "2 亿像素广角摄像头：f/1.8，等效焦距 23 毫米，7P 镜头，支持 AF 自动对焦，支持两轴 OIS 防抖；5000 万像素超广角摄像头：f/2.0，等效焦距 15 毫米，6P 镜头，支持 AF 自动对焦，120°广视角；5000 万像素长焦摄像头：f/2.7，等效焦距 70 毫米，4P 镜头，支持 AF 自动对焦，支持两轴 OIS 防抖；丹霞色彩还原镜头：f/2.4，等效焦距 21 毫米，3P 镜头；照片拍摄最高支持 3 倍光学变焦，最高支持 120 倍数码变焦",
+        "unit": "MP",
+        "value": 50.0
+      },
+      "memory": {
+        "display": "16 GB",
+        "label": "当前报价配置 RAM",
+        "max": 16.0,
+        "qualifier": "仅对应本次报价的具体配置，不取系列最高可选内存",
+        "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+        "text": "OPPO Find N6 金橙 16GB+512GB 官方标配 · SKU 39272",
+        "unit": "GB",
+        "value": 16.0
+      },
+      "refresh": {
+        "display": "120 Hz",
+        "label": "屏幕刷新率",
+        "max": 120.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+        "text": "主屏：1-120 Hz 智能切换，最高支持 120Hz；副屏：1-120 Hz 智能切换，最高支持 120Hz",
+        "unit": "Hz",
+        "value": 120.0
+      },
+      "screen_inches": {
+        "display": "6.62–8.12 英寸",
+        "label": "屏幕尺寸",
+        "max": 8.12,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+        "text": "主屏：8.12 英寸；副屏：6.62 英寸",
+        "unit": "英寸",
+        "value": 6.62
+      },
+      "weight": {
+        "display": "225 g",
+        "label": "重量",
+        "max": 225.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+        "text": "约 225g",
+        "unit": "g",
+        "value": 225.0
+      }
+    },
+    "id": 83,
+    "image_url": "/api/product-images/bf43f277f2c5d8722fb73c0c54de6dbfff1b2a366f31c09023f6c71db6e2b9b9.png",
+    "name": "OPPO Find N6",
+    "offer": {
+      "amount": 10999.0,
+      "availability": "in_stock",
+      "condition_note": "全新",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "currency": "CNY",
+      "id": 404,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:46:20+00:00",
+      "platform": "品牌官网",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 83,
+      "purchase_url": "",
+      "region": "中国大陆",
+      "snapshot_path": "data\\store_snapshots\\470b40f2f537a2f5ce501c2d8ce0fd9f67aa6a97345f9c6f3113d0312722006a.html",
+      "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+      "variant": "OPPO Find N6 金橙 16GB+512GB 官方标配 · SKU 39272"
+    },
+    "parameter_region_note": "",
+    "price": 10999.0,
+    "recommendation_eligible": false,
+    "recommendation_tier": "verified",
+    "score": 32.61,
+    "source_url": "https://www.opposhop.cn/cn/web/products/39272.html",
+    "subcategory": "直板手机"
+  },
+  "profile": {
+    "budget": 2000.0,
+    "category": "手机",
+    "needs": "核对预算、配置和使用体验",
+    "scenario": "办公",
+    "summary": null,
+    "weights": {
+      "battery": 14.0,
+      "camera": 7.0,
+      "ease": 12.0,
+      "performance": 22.0,
+      "portability": 12.0,
+      "price": 23.0,
+      "screen": 10.0
+    }
+  },
+  "quotes": [
+    {
+      "active": true,
+      "amount": 10999.0,
+      "availability": "in_stock",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "historical": null,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "name": "OPPO Find N6",
+      "observed_at": "2026-10-31T02:46:20+00:00",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 83,
+      "source_id": "S03",
+      "status": "超出预算",
+      "url": "https://www.opposhop.cn/cn/web/products/39272.html",
+      "variant": "OPPO Find N6 金橙 16GB+512GB 官方标配 · SKU 39272"
+    },
+    {
+      "active": true,
+      "amount": 1699.0,
+      "availability": "in_stock",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "historical": null,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "name": "OPPO K15x",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 86,
+      "source_id": "S04",
+      "status": "配置报价在预算内",
+      "url": "https://www.opposhop.cn/cn/web/products/52766.html",
+      "variant": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766"
+    }
+  ],
+  "reasons": [
+    {
+      "check": "带着必须使用的软件或游戏清单，核对系统与配置；有条件时查看同配置实测。",
+      "evidence": "16 GB",
+      "known": true,
+      "label": "性能参数",
+      "meaning": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+      "metric": "performance",
+      "rule": "按本类产品预设区间换算参考分",
+      "source_id": "S01",
+      "title": "日常配置是否够用"
+    },
+    {
+      "check": "确认充电器是否随附、充电协议和日常充电习惯；优先参考同配置续航实测。",
+      "evidence": "3150–6000 mAh",
+      "known": true,
+      "label": "续航参数",
+      "meaning": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+      "metric": "battery",
+      "rule": "按本类产品预设区间换算参考分",
+      "source_id": "S01",
+      "title": "少一点充电焦虑"
+    },
+    {
+      "check": "确认所选容量与配色版本的重量，尽量握持试一下手感。",
+      "evidence": "225 g",
+      "known": true,
+      "label": "尺寸重量",
+      "meaning": "经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。",
+      "metric": "portability",
+      "rule": "越轻便携参考分越高",
+      "source_id": "S01",
+      "title": "带着走是否轻松"
+    }
+  ],
+  "sections": [
+    {
+      "body": "你的需求：核对预算、配置和使用体验。\n预算上限：¥2,000；手动选择的报告对象：OPPO Find N6。\nOPPO Find N6 当前超出预算，不属于本次预算内推荐。预算是硬上限时，先看预算内替代项，不急着下单。\n购买前仍需确认实际体验和最终支付金额。",
+      "title": "选购结论"
+    },
+    {
+      "body": "日常配置是否够用\n依据：16 GB。\n先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。\n购买前：带着必须使用的软件或游戏清单，核对系统与配置；有条件时查看同配置实测。\n少一点充电焦虑\n依据：3150–6000 mAh。\n续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。\n购买前：确认充电器是否随附、充电协议和日常充电习惯；优先参考同配置续航实测。\n带着走是否轻松\n依据：225 g。\n经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。\n购买前：确认所选容量与配色版本的重量，尽量握持试一下手感。",
+      "title": "为什么适合你"
+    },
+    {
+      "body": "OPPO Find N6：当前超出预算，仅供比较；先核价或选择预算内候选。\n采集报价高出 ¥9,300，先确认这些差别是否值得你的额外支出。规格优势不等于实际体验，仍需核对测试条件与具体版本。\nOPPO K15x：你更关注预算余量、续航参数时，可以先核对这款。\n规格优势不等于实际体验，仍需核对测试条件与具体版本。\n两条报价相差 ¥9,300；配置、套装或价格条件可能不同，不直接当作同规格性价比结论。\nOPPO Find N6：¥10,999；超出预算。报价来源：https://www.opposhop.cn/cn/web/products/39272.html\nOPPO K15x：¥1,699；配置报价在预算内。报价来源：https://www.opposhop.cn/cn/web/products/52766.html\n参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+      "title": "两款怎么取舍"
+    },
+    {
+      "body": "超出预算：¥8,999。\n当前不构成预算内推荐。这笔差额尚未计入配件和运费；请核对必要配件报价后，再确认实际总支出。\n配件核对：保护壳、充电器是否随附，以及必要的数据迁移与设置。\nOPPO Find N6：¥10,999；超出预算。\nOPPO 中国官方商城 · 配置报价\nOPPO Find N6 金橙 16GB+512GB 官方标配 · SKU 39272\n采集时间：2026-10-31T02:46:20+00:00\n条件：当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。\nOPPO K15x：¥1,699；配置报价在预算内。\nOPPO 中国官方商城 · 配置报价\nOPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766\n采集时间：2026-10-31T02:46:25+00:00\n条件：当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "title": "预算与报价凭据"
+    },
+    {
+      "body": "1. 先核对完整配置：对照型号、容量、地区、全新或二手状态及装箱清单；保护壳、充电器是否随附，以及必要的数据迁移与设置。先统一配置，再把最终支付总额与预算对照。\n2. 再确认实际体验：先看你每天的使用方式：通勤刷视频更值得关注续航和重量；拍娃、旅行则要看常用焦段的实拍。不要只因为芯片型号更新就提高预算。\n3. 最后确认店铺与售后：核对经营主体、官方或自营身份、发票、保修与到货时间。补贴、会员券、以旧换新满足条件后再计算；问清拆封、试用和退换规则，超出硬预算时先不下单。",
+      "title": "购买行动清单"
+    },
+    {
+      "body": "[S01] OPPO Find N6 · 参数原文：https://www.opposhop.cn/cn/web/products/39272.html；采集于 2026-10-31T02:46:20+00:00\n[S02] OPPO K15x · 参数原文：https://www.opposhop.cn/cn/web/products/52766.html；采集于 2026-10-31T02:46:25+00:00\n[S03] OPPO Find N6 · OPPO 中国官方商城：https://www.opposhop.cn/cn/web/products/39272.html；采集于 2026-10-31T02:46:20+00:00\n[S04] OPPO K15x · OPPO 中国官方商城：https://www.opposhop.cn/cn/web/products/52766.html；采集于 2026-10-31T02:46:25+00:00\n参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。\n报价采集日期与报告生成日期分别记录；超过有效期或不符合地区、库存和配置条件的报价不用于预算推荐。",
+      "title": "来源与说明"
+    }
+  ],
+  "selection": {
+    "eligible_count": 3,
+    "is_system_choice": false,
+    "label": "手动选择的报告对象",
+    "mode": "manual",
+    "rank": null
+  },
+  "sources": [
+    {
+      "host": "www.opposhop.cn",
+      "id": "S01",
+      "kind": "参数",
+      "label": "OPPO Find N6 · 参数原文",
+      "observed_at": "2026-10-31T02:46:20+00:00",
+      "url": "https://www.opposhop.cn/cn/web/products/39272.html"
+    },
+    {
+      "host": "www.opposhop.cn",
+      "id": "S02",
+      "kind": "参数",
+      "label": "OPPO K15x · 参数原文",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "url": "https://www.opposhop.cn/cn/web/products/52766.html"
+    },
+    {
+      "host": "www.opposhop.cn",
+      "id": "S03",
+      "kind": "报价",
+      "label": "OPPO Find N6 · OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:46:20+00:00",
+      "url": "https://www.opposhop.cn/cn/web/products/39272.html"
+    },
+    {
+      "host": "www.opposhop.cn",
+      "id": "S04",
+      "kind": "报价",
+      "label": "OPPO K15x · OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "url": "https://www.opposhop.cn/cn/web/products/52766.html"
+    }
+  ],
+  "system_choice": {
+    "brand": "一加",
+    "budget_status": "配置报价在预算内",
+    "category": "手机",
+    "confidence": 100.0,
+    "facts": {
+      "battery_mah": {
+        "display": "6830–7000 mAh",
+        "label": "电池容量",
+        "max": 7000.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "7000 mAh/27.44 Wh（典型值），等效 7000 mAh 电池能量；6830 mAh/26.78 Wh（额定值），等效 6830 mAh 电池能量",
+        "unit": "mAh",
+        "value": 6830.0
+      },
+      "camera_mp": {
+        "display": "2–50 MP",
+        "label": "后置摄像头",
+        "max": 50.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "5000 万像素广角摄像头：f/1.8，等效焦距 27 毫米，5P 镜头，支持 AF 自动对焦；200 万像素黑白摄像头：f/2.4，等效焦距 22 毫米，3P 镜头；照片拍摄最高支持 10 倍数码变焦",
+        "unit": "MP",
+        "value": 2.0
+      },
+      "memory": {
+        "display": "8 GB",
+        "label": "当前报价配置 RAM",
+        "max": 8.0,
+        "qualifier": "仅对应本次报价的具体配置，不取系列最高可选内存",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "一加 Turbo 6X 白里挑一 8GB+128GB 官方标配 · SKU 41211",
+        "unit": "GB",
+        "value": 8.0
+      },
+      "refresh": {
+        "display": "120–144 Hz",
+        "label": "屏幕刷新率",
+        "max": 144.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "60/90/120Hz 智能切换，最高支持 144Hz",
+        "unit": "Hz",
+        "value": 120.0
+      },
+      "screen_inches": {
+        "display": "6.72 英寸",
+        "label": "屏幕尺寸",
+        "max": 6.72,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "6.72 英寸",
+        "unit": "英寸",
+        "value": 6.72
+      },
+      "weight": {
+        "display": "208 g",
+        "label": "重量",
+        "max": 208.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "约 208g",
+        "unit": "g",
+        "value": 208.0
+      }
+    },
+    "id": 113,
+    "image_url": "/api/product-images/52d18f485aac25a794d4d4dda4ac3cc45cd489191bfa94508b764e4062a8c8d1.png",
+    "name": "一加 Turbo 6X",
+    "offer": {
+      "amount": 1899.0,
+      "availability": "in_stock",
+      "condition_note": "全新",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "currency": "CNY",
+      "id": 416,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:47:02+00:00",
+      "platform": "品牌官网",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 113,
+      "purchase_url": "",
+      "region": "中国大陆",
+      "snapshot_path": "data\\store_snapshots\\2b0520b380c325e0c123c6782855538ad9d0db66a7aa731ae7becf52a04b825d.html",
+      "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+      "variant": "一加 Turbo 6X 白里挑一 8GB+128GB 官方标配 · SKU 41211"
+    },
+    "parameter_region_note": "",
+    "price": 1899.0,
+    "recommendation_eligible": true,
+    "recommendation_tier": "verified",
+    "score": 73.46,
+    "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+    "subcategory": "直板手机"
+  },
+  "title": "2,000元手机选购建议",
+  "tradeoff": {
+    "caveat": "参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+    "choices": [
+      {
+        "caution": "采集报价高出 ¥9,300，先确认这些差别是否值得你的额外支出。规格优势不等于实际体验，仍需核对测试条件与具体版本。",
+        "name": "OPPO Find N6",
+        "product_id": 83,
+        "when": "当前超出预算，仅供比较；先核价或选择预算内候选。"
+      },
+      {
+        "caution": "规格优势不等于实际体验，仍需核对测试条件与具体版本。",
+        "name": "OPPO K15x",
+        "product_id": 86,
+        "when": "你更关注预算余量、续航参数时，可以先核对这款。"
+      }
+    ],
+    "gap_note": "两条报价相差 ¥9,300；配置、套装或价格条件可能不同，不直接当作同规格性价比结论。",
+    "price_gap": 9300.0,
+    "rows": [
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "性能参数",
+        "metric": "performance",
+        "note": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+        "values": [
+          "16 GB",
+          "6 GB"
+        ]
+      },
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "续航参数",
+        "metric": "battery",
+        "note": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+        "values": [
+          "3150–6000 mAh",
+          "6335–6500 mAh"
+        ]
+      },
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "尺寸重量",
+        "metric": "portability",
+        "note": "经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。",
+        "values": [
+          "225 g",
+          "212 g"
+        ]
+      },
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "操作与兼容",
+        "metric": "ease",
+        "note": "先核对常用设备、软件和操作方式，连接功能多不代表操作一定简单。",
+        "values": [
+          "USB-C、蓝牙、无线网络、NFC",
+          "USB-C、蓝牙、无线网络"
+        ]
+      }
+    ]
+  },
+  "version": 2
+}

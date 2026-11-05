@@ -1,0 +1,375 @@
+[
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Mate 90",
+    "url": "https://consumer.huawei.com/cn/phones/mate90/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Mate 90 Pro",
+    "url": "https://consumer.huawei.com/cn/phones/mate90-pro/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Mate 90 Pro Max",
+    "url": "https://consumer.huawei.com/cn/phones/mate90-pro-max/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Mate 90 RS 非凡大师",
+    "url": "https://consumer.huawei.com/cn/phones/mate90-rs-ultimate-design/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Pura 80",
+    "url": "https://consumer.huawei.com/cn/phones/pura80/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Pura 80 Ultra",
+    "url": "https://consumer.huawei.com/cn/phones/pura80-ultra/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI nova 14",
+    "url": "https://consumer.huawei.com/cn/phones/nova14/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "手机",
+    "name": "HUAWEI Mate X6",
+    "url": "https://consumer.huawei.com/cn/phones/mate-x6/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "电脑",
+    "name": "HUAWEI MateBook GT 14",
+    "url": "https://consumer.huawei.com/cn/laptops/matebook-gt-14/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "电脑",
+    "name": "HUAWEI MateBook X Pro",
+    "url": "https://consumer.huawei.com/cn/laptops/matebook-x-pro/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "电脑",
+    "name": "HUAWEI MateBook D 16",
+    "url": "https://consumer.huawei.com/cn/laptops/matebook-d-16/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "平板",
+    "name": "HUAWEI MatePad Air Z",
+    "url": "https://consumer.huawei.com/cn/tablets/matepad-air-z/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "平板",
+    "name": "HUAWEI MatePad Mini",
+    "url": "https://consumer.huawei.com/cn/tablets/matepad-mini/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "平板",
+    "name": "HUAWEI MatePad Pro 12.2",
+    "url": "https://consumer.huawei.com/cn/tablets/matepad-pro-12-2/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "平板",
+    "name": "HUAWEI MatePad 11.5 S",
+    "url": "https://consumer.huawei.com/cn/tablets/matepad-11-5-s/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "耳机",
+    "name": "HUAWEI FreeClip",
+    "url": "https://consumer.huawei.com/cn/headphones/freeclip/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "耳机",
+    "name": "HUAWEI FreeClip 2",
+    "url": "https://consumer.huawei.com/cn/headphones/freeclip2/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "耳机",
+    "name": "HUAWEI FreeBuds Pro 4",
+    "url": "https://consumer.huawei.com/cn/headphones/freebuds-pro-4/specs/"
+  },
+  {
+    "brand": "华为",
+    "category": "耳机",
+    "name": "HUAWEI FreeBuds SE 4 ANC",
+    "url": "https://consumer.huawei.com/cn/headphones/freebuds-se-4-anc/specs/"
+  },
+  {
+    "brand": "小米",
+    "category": "手机",
+    "name": "Xiaomi 15",
+    "url": "https://www.mi.com/global/product/xiaomi-15/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "手机",
+    "name": "Xiaomi 15 Ultra",
+    "url": "https://www.mi.com/global/product/xiaomi-15-ultra/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "手机",
+    "name": "REDMI Note 14",
+    "url": "https://www.mi.com/global/product/redmi-note-14/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "手机",
+    "name": "REDMI Note 14 Pro 5G",
+    "url": "https://www.mi.com/global/product/redmi-note-14-pro-5g/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "手机",
+    "name": "REDMI Note 14 Pro+ 5G",
+    "url": "https://www.mi.com/global/product/redmi-note-14-pro-plus-5g/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "手机",
+    "name": "REDMI 15C",
+    "url": "https://www.mi.com/global/product/redmi-15c/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "POCO",
+    "category": "手机",
+    "name": "POCO F7",
+    "url": "https://www.mi.com/global/product/poco-f7/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "POCO",
+    "category": "手机",
+    "name": "POCO X7 Pro",
+    "url": "https://www.mi.com/global/product/poco-x7-pro/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "平板",
+    "name": "Xiaomi Pad 7 Pro",
+    "url": "https://www.mi.com/global/product/xiaomi-pad-7-pro/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "平板",
+    "name": "REDMI Pad 2",
+    "url": "https://www.mi.com/global/product/redmi-pad-2/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "平板",
+    "name": "REDMI Pad Pro",
+    "url": "https://www.mi.com/global/product/redmi-pad-pro/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "耳机",
+    "name": "REDMI Buds 6",
+    "url": "https://www.mi.com/global/product/redmi-buds-6/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "耳机",
+    "name": "REDMI Buds 6 Pro",
+    "url": "https://www.mi.com/global/product/redmi-buds-6-pro/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "耳机",
+    "name": "REDMI Buds 6 Active",
+    "url": "https://www.mi.com/global/product/redmi-buds-6-active/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "耳机",
+    "name": "Xiaomi OpenWear Stereo",
+    "url": "https://www.mi.com/global/product/xiaomi-openwear-stereo/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R1",
+    "url": "https://www.canon.com.cn/product/r1/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R3",
+    "url": "https://www.canon.com.cn/product/r3/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R6 Mark III",
+    "url": "https://www.canon.com.cn/product/r6iii/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R8",
+    "url": "https://www.canon.com.cn/product/r8/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R7",
+    "url": "https://www.canon.com.cn/product/r7/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R10",
+    "url": "https://www.canon.com.cn/product/r10/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R50",
+    "url": "https://www.canon.com.cn/product/r50/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R100",
+    "url": "https://www.canon.com.cn/product/r100/spec.html"
+  },
+  {
+    "brand": "佳能",
+    "category": "相机",
+    "name": "EOS R50 V",
+    "url": "https://www.canon.com.cn/product/r50v/spec.html"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "Legion Pro 5 16IRX9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Pro_5_16IRX9/Legion_Pro_5_16IRX9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "LOQ 15IRX9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX9/LOQ_15IRX9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "ThinkPad E14 Gen 6 Intel",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_6_Intel/ThinkPad_E14_Gen_6_Intel_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "ThinkBook 14 G7 IML",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkBook/ThinkBook_14_G7_IML/ThinkBook_14_G7_IML_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "IdeaPad Slim 5 14AHP9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Slim_5_14AHP9/IdeaPad_Slim_5_14AHP9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "联想",
+    "category": "电脑",
+    "name": "Yoga Pro 7 14AHP9",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/Yoga/Yoga_Pro_7_14AHP9/Yoga_Pro_7_14AHP9_Spec.pdf",
+    "region": "全球规格",
+    "format": "pdf"
+  },
+  {
+    "brand": "荣耀",
+    "category": "手机",
+    "name": "Magic V5",
+    "url": "https://www.honor.com/cn/phones/honor-magic-v5/spec/"
+  },
+  {
+    "brand": "荣耀",
+    "category": "手机",
+    "name": "HONOR 400 Pro",
+    "url": "https://www.honor.com/cn/phones/honor-400-pro/spec/"
+  },
+  {
+    "brand": "荣耀",
+    "category": "平板",
+    "name": "HONOR Pad 10",
+    "url": "https://www.honor.com/global/tablets/honor-pad10/spec/",
+    "region": "全球版"
+  },
+  {
+    "brand": "OPPO",
+    "category": "手机",
+    "name": "Reno14 Pro",
+    "url": "https://www.oppo.com/cn/smartphones/series-reno/reno14-pro/specs/"
+  },
+  {
+    "brand": "OPPO",
+    "category": "手机",
+    "name": "Reno14",
+    "url": "https://www.oppo.com/cn/smartphones/series-reno/reno14/specs/"
+  },
+  {
+    "brand": "OPPO",
+    "category": "手机",
+    "name": "Find N5",
+    "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n5/specs/",
+    "subcategory": "折叠屏手机"
+  },
+  {
+    "brand": "一加",
+    "category": "手机",
+    "name": "OnePlus 13",
+    "url": "https://www.oneplus.com/global/13/specs",
+    "region": "全球版"
+  },
+  {
+    "brand": "realme",
+    "category": "手机",
+    "name": "realme GT 7",
+    "url": "https://www.realme.com/global/realme-gt-7/specs",
+    "region": "全球版"
+  }
+]

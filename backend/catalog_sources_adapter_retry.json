@@ -1,0 +1,23 @@
+[
+  {
+    "brand": "小米",
+    "category": "耳机",
+    "name": "REDMI Buds 6 Active",
+    "url": "https://www.mi.com/global/product/redmi-buds-6-active/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "小米",
+    "category": "耳机",
+    "name": "Xiaomi OpenWear Stereo",
+    "url": "https://www.mi.com/global/product/xiaomi-openwear-stereo/specs/",
+    "region": "全球版"
+  },
+  {
+    "brand": "一加",
+    "category": "手机",
+    "name": "OnePlus 13",
+    "url": "https://www.oneplus.com/global/13/specs",
+    "region": "全球版"
+  }
+]

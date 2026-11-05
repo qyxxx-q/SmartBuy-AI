@@ -1,0 +1,212 @@
+[
+  {
+    "product_id": 1,
+    "image_url": "/api/product-images/84000a8116d0c1986d552adc30cd8433ec577a057d1c4f0de3e485b86efd88ef.png",
+    "image_source_url": "https://www.apple.com.cn/iphone-17/images/meta/iphone-17_specs__bzlgip6v14mu_og.png?202609210305",
+    "image_sha256": "84000a8116d0c1986d552adc30cd8433ec577a057d1c4f0de3e485b86efd88ef",
+    "image_collected_at": "2026-10-31T03:02:46+00:00",
+    "configuration": "iPhone 17 256GB Black · MG6W4CH/A",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 4,
+    "image_url": "/api/product-images/597b4ef5aa1cd035b5741331d7a853f9c602ff4866e7c0fbe249b79c52fc69b9.png",
+    "image_source_url": "https://www.apple.com/v/ipad-mini/specs/d/images/meta/ipad-mini_specs__0r034kjtwn62_og.png?202609141707",
+    "image_sha256": "597b4ef5aa1cd035b5741331d7a853f9c602ff4866e7c0fbe249b79c52fc69b9",
+    "image_collected_at": "2026-10-31T03:09:56+00:00",
+    "configuration": "iPad mini Wi‑Fi 128GB with standard glass - Midnight · MJ6F4CH/A",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:56+00:00"
+  },
+  {
+    "product_id": 6,
+    "image_url": "/api/product-images/bb9995475421d242406df26001a279fdc4592e88e7555d088b2f3aa658b4a23a.png",
+    "image_source_url": "https://www.apple.com/v/airpods-pro/t/images/meta/og__c0ceegchesom_specs.png?202609071925",
+    "image_sha256": "bb9995475421d242406df26001a279fdc4592e88e7555d088b2f3aa658b4a23a",
+    "image_collected_at": "2026-10-31T03:10:05+00:00",
+    "configuration": "AirPods Pro 3 ·  · MFHP4CH/A",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:10:06+00:00"
+  },
+  {
+    "product_id": 82,
+    "image_url": "/api/product-images/22f5d1aa0c5e5a74a73dfd705b14f32f07758582dc0ddcd7c12d204c90c46a6c.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260913/968da31f069f8ac9ee03459764f50aba-1231592864.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "22f5d1aa0c5e5a74a73dfd705b14f32f07758582dc0ddcd7c12d204c90c46a6c",
+    "image_collected_at": "2026-10-31T03:02:35+00:00",
+    "configuration": "OPPO Find X10 冰蓝 16GB+512GB 官方标配 · SKU 45215",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 83,
+    "image_url": "/api/product-images/bf43f277f2c5d8722fb73c0c54de6dbfff1b2a366f31c09023f6c71db6e2b9b9.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260306/68f42d181896ac2f0ab5e70abddae0bc1014708246.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "bf43f277f2c5d8722fb73c0c54de6dbfff1b2a366f31c09023f6c71db6e2b9b9",
+    "image_collected_at": "2026-10-31T03:02:39+00:00",
+    "configuration": "OPPO Find N6 金橙 16GB+512GB 官方标配 · SKU 39272",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 85,
+    "image_url": "/api/product-images/b108c38a2f1b9962e4b1ede0c33ab03b767b9595efceaff909060b51fae9f428.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260518/903b164f0484a3efbaf0b605b694fa8c738815010.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "b108c38a2f1b9962e4b1ede0c33ab03b767b9595efceaff909060b51fae9f428",
+    "image_collected_at": "2026-10-31T03:02:32+00:00",
+    "configuration": "OPPO Reno16 Pro 怦然星动 16GB+512GB 官方标配 · SKU 40697",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 86,
+    "image_url": "/api/product-images/9878fe2a42331979efeb4d8decb67f18c3e65d66cbae9d381268bd505e4fb315.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260929/6af87a993dfb9bf08dfd1e738ca79cf6-1880266706.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "9878fe2a42331979efeb4d8decb67f18c3e65d66cbae9d381268bd505e4fb315",
+    "image_collected_at": "2026-10-31T03:02:19+00:00",
+    "configuration": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 87,
+    "image_url": "/api/product-images/b619122bc0372e1ce4632ddcbba6b2284b0d7c6e3d431d361f329e8e253f80e1.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260929/42e99d9dbd9a3ad57304d639dc257a581637296664.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "b619122bc0372e1ce4632ddcbba6b2284b0d7c6e3d431d361f329e8e253f80e1",
+    "image_collected_at": "2026-10-31T03:02:24+00:00",
+    "configuration": "OPPO K15s 风迹紫 6GB+128GB 官方标配 · SKU 52762",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 88,
+    "image_url": "/api/product-images/39ad22a48e9afecad2b235e87b9be10e542f50b870dbe853699d43832d3a0100.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260728/51fa8187c5f290a9454e43004c45939c885048218.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "39ad22a48e9afecad2b235e87b9be10e542f50b870dbe853699d43832d3a0100",
+    "image_collected_at": "2026-10-31T03:02:29+00:00",
+    "configuration": "OPPO A7 Pro Max 乘风破浪 12GB+512GB 官方标配 · SKU 42054",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 90,
+    "image_url": "/api/product-images/1e8bb007dc8fd426210e2fc7f3ecaeeeedf3877f96f1a4fe43a72529f4e7c798.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260913/1ca041004d1fa105465cf08449c4d6301775143435.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "1e8bb007dc8fd426210e2fc7f3ecaeeeedf3877f96f1a4fe43a72529f4e7c798",
+    "image_collected_at": "2026-10-31T03:05:10+00:00",
+    "configuration": "OPPO Enco X4 柔白 · SKU 47836",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:59+00:00"
+  },
+  {
+    "product_id": 91,
+    "image_url": "/api/product-images/3f637e12d2c1d1042b8fbbb60f3cb4ce7c66c04096263281fdd887ba6ba170b1.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260518/2f80224263b120cc876ae2cadc1869c31732527817.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "3f637e12d2c1d1042b8fbbb60f3cb4ce7c66c04096263281fdd887ba6ba170b1",
+    "image_collected_at": "2026-10-31T03:09:40+00:00",
+    "configuration": "OPPO Pad 6 月光银 12GB+256GB · SKU 41009",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:41+00:00"
+  },
+  {
+    "product_id": 92,
+    "image_url": "/api/product-images/f7ae8dab07520e826a01200259b449928c1a7808276661e0946449d0d5b5673b.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260512/1ca041004d1fa105465cf08449c4d630-823733889.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "f7ae8dab07520e826a01200259b449928c1a7808276661e0946449d0d5b5673b",
+    "image_collected_at": "2026-10-31T03:05:04+00:00",
+    "configuration": "OPPO Enco Air5 真无线降噪耳机 星釉白 · SKU 40972",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:57+00:00"
+  },
+  {
+    "product_id": 93,
+    "image_url": "/api/product-images/381540da53a32ed0280949d22ecd3893dc97c406884f09fff5f09aafc68395f1.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260518/4f24640f0b66c0b41609162cb0f9c262410663111.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "381540da53a32ed0280949d22ecd3893dc97c406884f09fff5f09aafc68395f1",
+    "image_collected_at": "2026-10-31T03:05:07+00:00",
+    "configuration": "OPPO Enco Air5s 真无线降噪耳机 月光白 · SKU 41089",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:59+00:00"
+  },
+  {
+    "product_id": 94,
+    "image_url": "/api/product-images/554ca85fe0bb6a4862db594d6978293a459b08a654ea0945108252d9de71bddf.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260414/47e49d3ac9689ee6324cd626595eb1031347346529.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "554ca85fe0bb6a4862db594d6978293a459b08a654ea0945108252d9de71bddf",
+    "image_collected_at": "2026-10-31T03:04:54+00:00",
+    "configuration": "OPPO Pad Mini 莫奈紫 12GB+512GB · SKU 39996",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:41+00:00"
+  },
+  {
+    "product_id": 95,
+    "image_url": "/api/product-images/76b9055f7c3cef8e8ca19431809c2ce4529cf54cfa7816fc6a9f8b8b89fba559.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260411/27f191275485fb8ccddd1ceef2f99895-1074916570.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "76b9055f7c3cef8e8ca19431809c2ce4529cf54cfa7816fc6a9f8b8b89fba559",
+    "image_collected_at": "2026-10-31T03:04:58+00:00",
+    "configuration": "OPPO Pad 5 Pro 晨曦金 12GB+512GB · SKU 40016",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:41+00:00"
+  },
+  {
+    "product_id": 113,
+    "image_url": "/api/product-images/52d18f485aac25a794d4d4dda4ac3cc45cd489191bfa94508b764e4062a8c8d1.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260604/d8a8849c999d3262571b7306edbc7336-10728426.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "52d18f485aac25a794d4d4dda4ac3cc45cd489191bfa94508b764e4062a8c8d1",
+    "image_collected_at": "2026-10-31T03:02:27+00:00",
+    "configuration": "一加 Turbo 6X 白里挑一 8GB+128GB 官方标配 · SKU 41211",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:07:24+00:00"
+  },
+  {
+    "product_id": 117,
+    "image_url": "/api/product-images/a96c79ace84f6488dbbb442866333a8cff47b9f232e572dd02edf4eb41208954.png",
+    "image_source_url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/e4781624a38ba00d1b4a8bc3a204bd97@ultra.png",
+    "image_sha256": "a96c79ace84f6488dbbb442866333a8cff47b9f232e572dd02edf4eb41208954",
+    "image_collected_at": "2026-10-31T03:05:21+00:00",
+    "configuration": "Osmo Action 5 Pro 标准套装；默认标准套装，配件另购",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:10:09+00:00"
+  },
+  {
+    "product_id": 118,
+    "image_url": "/api/product-images/83be25a199a81fd0410b0c15e5fc78e1cb27c88018a103d91ad8363e6e3fe3c7.png",
+    "image_source_url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/35d158a1f3d1a3a48ec4cf2220cfc426@ultra.png",
+    "image_sha256": "83be25a199a81fd0410b0c15e5fc78e1cb27c88018a103d91ad8363e6e3fe3c7",
+    "image_collected_at": "2026-10-31T03:05:22+00:00",
+    "configuration": "Osmo Pocket 3；默认标准套装，配件另购",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:10:09+00:00"
+  },
+  {
+    "product_id": 120,
+    "image_url": "/api/product-images/0bfa28829f109d38bdf33c467b5338e23577b793ed1f0376e4d5ba2c8e3ef2ee.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20251218/e5bc11ec90a9a2a9f3f0b22e12d10ac51769005911.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "0bfa28829f109d38bdf33c467b5338e23577b793ed1f0376e4d5ba2c8e3ef2ee",
+    "image_collected_at": "2026-10-31T03:09:24+00:00",
+    "configuration": "OPPO Pad Air5 浅粉 8GB+256GB  WIFI版 · SKU 38509",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:24+00:00"
+  },
+  {
+    "product_id": 124,
+    "image_url": "/api/product-images/8376dfeb74a3a34574e418f06dea2a853458246b8ee7705c3b15ed6ec8cd3fd3.png",
+    "image_source_url": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20250213/7fa10b6f2eea081daa55b2f5a4750ac5-682707033.png?_w_=1440&_h_=1440&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_1440%2Ch_1440",
+    "image_sha256": "8376dfeb74a3a34574e418f06dea2a853458246b8ee7705c3b15ed6ec8cd3fd3",
+    "image_collected_at": "2026-10-31T03:05:02+00:00",
+    "configuration": "OPPO Enco Air4i  真无线蓝牙耳机 玉瓷白 · SKU 32625",
+    "note": "官方参数页可能包含可选项，以报价配置为准；未知字段保留未知。",
+    "curated_at": "2026-10-31T03:09:56+00:00"
+  },
+  {
+    "product_id": 127,
+    "image_url": "/api/product-images/d9485dac764d705203c605c5988a9b7bd10d123a22cfac851e5bc59715da9867.png",
+    "image_source_url": "https://p1.lefile.cn/fes/cms/2026/10/30/12nsjhjlmpe3rszmultec2ev8e9yxs360992.png",
+    "image_sha256": "d9485dac764d705203c605c5988a9b7bd10d123a22cfac851e5bc59715da9867",
+    "image_collected_at": "2026-10-31T03:09:15+00:00",
+    "configuration": "联想 小新Pro16 锐龙版16英寸轻薄笔记本电脑 深灰色；AMD 锐龙 7 H 255丨Windows 11 家庭中文版丨16英寸丨24GB丨1T SSD丨集成显卡丨深灰色",
+    "note": "官方商城列表配置；重量、续航和库存等未披露项保留未知。",
+    "curated_at": "2026-10-31T03:09:15+00:00"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "description": "Archived project catalog; not live market prices.",
+  "tables": {
+    "catalog_products": 174,
+    "catalog_specs": 5265,
+    "crawl_runs": 10,
+    "crawl_pages": 171,
+    "catalog_price_observations": 0,
+    "retailer_offers": 420,
+    "curated_products": 21,
+    "verified_products": 172,
+    "catalog_behaviors": 0
+  },
+  "verified_categories": {
+    "平板": 14,
+    "手机": 58,
+    "电脑": 62,
+    "相机": 17,
+    "耳机": 21
+  }
+}

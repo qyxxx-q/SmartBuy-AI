@@ -1,0 +1,1628 @@
+{
+  "budget": {
+    "accessories": "保护壳、充电器是否随附，以及必要的数据迁移与设置",
+    "accessories_amount": null,
+    "label": "待核价，不能计算余额",
+    "limit": 2000.0,
+    "note": "当前不构成预算内推荐。这笔差额尚未计入配件和运费；请核对必要配件报价后，再确认实际总支出。",
+    "product_price": null,
+    "remaining": null
+  },
+  "checklist": [
+    {
+      "body": "对照型号、容量、地区、全新或二手状态及装箱清单；保护壳、充电器是否随附，以及必要的数据迁移与设置。先统一配置，再把最终支付总额与预算对照。",
+      "title": "先核对完整配置"
+    },
+    {
+      "body": "先看你每天的使用方式：通勤刷视频更值得关注续航和重量；拍娃、旅行则要看常用焦段的实拍。不要只因为芯片型号更新就提高预算。",
+      "title": "再确认实际体验"
+    },
+    {
+      "body": "核对经营主体、官方或自营身份、发票、保修与到货时间。补贴、会员券、以旧换新满足条件后再计算；问清拆封、试用和退换规则，超出硬预算时先不下单。",
+      "title": "最后确认店铺与售后"
+    }
+  ],
+  "comparison": {
+    "cautions": [
+      "“差异”表示官方原文不同，不自动判定谁更好；未知项不等于不支持。",
+      "亮度、续航、重量等需保留配置与测试条件；多维分值是当前偏好的规则分，不是实测结果。"
+    ],
+    "counts": {
+      "different": 2,
+      "same": 0,
+      "total": 68,
+      "unknown": 66
+    },
+    "decisions": [
+      {
+        "advantages": [
+          {
+            "basis": "USB-C、蓝牙、无线网络、NFC",
+            "label": "操作与兼容",
+            "metric": "ease",
+            "rule": "已明确记载的连接和辅助功能覆盖；平台兼容性仍需确认"
+          }
+        ],
+        "product_id": 98,
+        "text": "优先考虑 vivo Y300t，如果你更关注操作与兼容。当前待核价，仅供比较。"
+      },
+      {
+        "advantages": [],
+        "product_id": 86,
+        "text": "优先考虑 OPPO K15x，如果你更关注它的具体配置、系统和使用习惯。"
+      }
+    ],
+    "groups": [
+      {
+        "id": "spec-group-0",
+        "name": "基本信息",
+        "rows": [
+          {
+            "group": "基本信息",
+            "label": "上市时间",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "上市时间",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "2025年3月"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "上市时间",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "2026 年 9 月"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "操作系统",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "操作系统",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "OriginOS 5"
+              },
+              null
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "产品名称",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "产品名称",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "OPPO K15x"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "品牌",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "品牌",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "OPPO"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "进网型号",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "进网型号",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "PLT150"
+              }
+            ]
+          },
+          {
+            "group": "基本信息",
+            "label": "电信设备进网许可证编号",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "电信设备进网许可证编号",
+                "section": "主体",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "02-D124-260513"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-1",
+        "name": "核心配置",
+        "rows": [
+          {
+            "group": "核心配置",
+            "label": "处理器",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "处理器",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "CPU型号 天玑 7300 CPU核心数 八核处理器 CPU主频 2.5GHz*4+2.0GHz*4 CPU位数 64位 CPU制程 4nm GPU（图形处理器）型号 Mali-G615"
+              },
+              null
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "存储",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "存储",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "运行内存（RAM） 12GB/8GB（由于手机系统和预装的程序占据了部分运存空间，实际运存空间少于12GB/8GB） 机身存储（ROM） 512GB/256GB/128GB（由于手机系统和预装的程序占据了部分存储空间，可用存储空间少于512GB/256GB/128GB) RAM类型 LPDDR4X双通道 ROM类型 UFS3.1"
+              },
+              null
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "CPU频率",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "CPU频率",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "8 核心（2 大核+6 小核）；最高主频 2.4GHz"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "处理平台",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "处理平台",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "MediaTek 天玑6300"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "CPU核心数",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "CPU核心数",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "8 核"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "GPU",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "GPU",
+                "section": "处理平台",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "ARM Mali-G57 MC2@1072MHz"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "运行内存",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "运行内存",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "LPDDR4X"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "机身存储",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "机身存储",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "UFS 2.2"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "拓展卡",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "拓展卡",
+                "section": "内存与容量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持"
+              }
+            ]
+          },
+          {
+            "group": "核心配置",
+            "label": "运行内存 RAM",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "运行内存 RAM",
+                "section": "当前报价配置",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "6 GB；当前配置 6GB+128GB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-2",
+        "name": "屏幕与显示",
+        "rows": [
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕显示",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "屏幕显示",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "尺寸（英寸） 6.72英寸 屏幕比例 20.1:9 屏占比 91.49% 分辨率 2408x1080 屏幕色彩 1670万色 HDR技术 支持 对比度 1400:1 屏幕材质 LCD 触摸屏 电容式多点触控 刷新率 最大支持120Hz"
+              },
+              null
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕类型",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕类型",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "直面屏"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕分辨率",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕分辨率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "HD+ 1570×720 像素"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕占比",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕占比",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "90.6%"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕亮度",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕亮度",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "全局默认最高亮度：700 尼特典型值；全局激发最高亮度：1125 尼特典型值"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "面板材质",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "面板材质",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "LCD 屏"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "触控采样率",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "触控采样率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "最高 240Hz，默认 120Hz"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "色域",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "色域",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "生动模式：83% NTSC；自然模式：100% sRGB"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕色彩",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕色彩",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1670 万色（8-bit）"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕刷新率",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕刷新率",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "60/90/120Hz 智能切换，最高支持 120Hz"
+              }
+            ]
+          },
+          {
+            "group": "屏幕与显示",
+            "label": "屏幕像素密度",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕像素密度",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "256 PPI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-3",
+        "name": "影像与声音",
+        "rows": [
+          {
+            "group": "影像与声音",
+            "label": "拍摄功能",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "拍摄功能",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "前置摄像头像素 800万像素 前置摄像头光圈 f/2.05 后置摄像头数量 双摄 后置摄像头像素 5000万主摄 200万虚化 后置摄像头光圈 f/1.8（主摄）+f/2.4（虚化） 后置闪光灯 支持 传感器 CMOS 防抖类型 后置主摄像视频支持EIS防抖 自动对焦 后置主摄支持AF对焦 前置、后置虚化支持FF对焦 变焦模式 后置主摄支持10倍数字变焦 前置支持2倍数字变焦 拍摄模式 前置：人像，拍照，录像，微电影，动态照片； 后置：夜景，人像，拍照，录像，微电影，5000万像素，全景，文档矫正，慢镜头，延时摄影，专业，动态照片，扫描 视频录制格式 MP4 视频录制 录制像素：4K、1080P、720P"
+              },
+              null
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "传感器",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "传感器",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "加速度传感器 支持 环境光传感器 支持 接近传感器 支持 陀螺仪 支持 电子罗盘 支持 其他传感器 红外遥控"
+              },
+              null
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "蓝牙音频规格",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "蓝牙音频规格",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "SBC，AAC，LDAC，aptX，aptX HD"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "后置摄像头",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "后置摄像头",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1300 万像素广角摄像头：f/2.2，等效焦距 27 毫米，4P 镜头，支持 AF 自动对焦；照片拍摄支持 10 倍数码变焦"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "前置摄像头",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "前置摄像头",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "500 万像素摄像头：f/2.2，等效焦距 27 毫米，3P 镜头"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "后置拍摄模式",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "后置拍摄模式",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "照片，视频，人像，夜景，全景，慢动作，多景录像，延时摄影，萌拍，高像素，AI 证件照，专业模式，文档"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "前置拍摄模式",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "前置拍摄模式",
+                "section": "摄像头",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "照片，视频，人像，夜景，全景，多景录像，延时摄影，萌拍，AI 证件照，美颜自拍，屏幕补光，高像素"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "后置视频拍摄",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "后置视频拍摄",
+                "section": "视频拍摄",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1080P 基础拍摄：60 fps，30 fps；720P 基础拍摄：60 fps，30 fps；720P 慢动作视频拍摄：120 fps；1080P 延时摄影拍摄：30 fps；支持多景录像视频拍摄：720P@30fps；支持视频变焦拍摄：最高支持 10 倍数码变焦"
+              }
+            ]
+          },
+          {
+            "group": "影像与声音",
+            "label": "前置视频拍摄",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "前置视频拍摄",
+                "section": "视频拍摄",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "1080P 基础拍摄：30 fps；720P 基础拍摄：30 fps；1080P 延时摄影拍摄：30 fps；支持多景录像视频拍摄"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-4",
+        "name": "续航与充电",
+        "rows": [
+          {
+            "group": "续航与充电",
+            "label": "电池信息",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "电池信息",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "电池容量 *本产品采用单电芯设计： 典型容量：6500mAh(3.91V) 典型能量：25.42Wh 额定容量：6360mAh(3.91V) 额定能量：24.87Wh 充电规格 44W 电池类型 锂离子电池 OTG反向充电 支持 理论待机时间 理论单卡4G待机时间：最长可达26.9天。 理论4G Volte通话时长：最长可达26.4小时。 备注：数据为我司实验室标准环境下的测试结果，实际待机、通话时间，视当地的实际网络情况和使用习惯而有所不同。"
+              },
+              null
+            ]
+          },
+          {
+            "group": "续航与充电",
+            "label": "电池容量",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "电池容量",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "6500 mAh/25.22 Wh（典型值）；6335 mAh/24.58 Wh（额定值）"
+              }
+            ]
+          },
+          {
+            "group": "续航与充电",
+            "label": "快速充电",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "快速充电",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "最大支持： 45 W 超级闪充，45 W UFCS 融合快充 ；兼容： 33 W 及以下超级闪充，44 W 三方 UFCS 融合快充，33 W PPS，13.5 W PD"
+              }
+            ]
+          },
+          {
+            "group": "续航与充电",
+            "label": "充电接口",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "充电接口",
+                "section": "电池与充电",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "USB Type-C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-5",
+        "name": "尺寸与便携",
+        "rows": [
+          {
+            "group": "尺寸与便携",
+            "label": "屏幕尺寸",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "屏幕尺寸",
+                "section": "显示",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "6.75 英寸"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "高度",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "高度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "166.61mm"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "宽度",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "宽度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "78.51mm"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "厚度",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "厚度",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "8.61mm"
+              }
+            ]
+          },
+          {
+            "group": "尺寸与便携",
+            "label": "重量",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "重量",
+                "section": "尺寸与重量",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "约 212g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-6",
+        "name": "连接与功能",
+        "rows": [
+          {
+            "group": "连接与功能",
+            "label": "网络参数",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "网络参数",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "网络类型 支持移动/联通/电信/广电5G/4G等网络 网络频段 2G GSM：850/900/1800MHz; 2G CDMA：BC0; 3G WCDMA：B1/B5/B8; 4G TD-LTE：B34/B38/B39/B40/B41; 4G FDD-LTE：B1/B3/B5/B8/B28A; 5G：n1/n3/n5/n8/n28A/n41/n77/n78. 实际网络功能可用性取决于运营商网络可用性、基建部署以及手机软件版本。 SIM卡类型 双nano卡 双卡使用说明 1、卡槽1、2可以任意切换为数据卡； 2、支持5G SA； 3、若数据卡是移动卡/联通卡/广电卡，非数据卡支持“移动5G/4G/2G、联通5G/4G/3G/2G、广电5G/4G、电信5G/4G”； 4、若数据卡是电信卡，非数据卡支持“移动5G/4G/2G、联通5G/4G/3G/2G、广电5G/4G、电信5G/4G（需要开通VoLTE业务，未开通VoLTE业务时，无法注册网络）”。"
+              },
+              null
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "指纹识别",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "指纹识别",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "侧边电容指纹"
+              },
+              null
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "面部识别",
+            "state": "different",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "面部识别",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "Face Wake面部识别"
+              },
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "面部识别",
+                "section": "生物识别",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "数据连接",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "数据连接",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "WLAN WLAN 2.4G、WLAN 5G 备注：速率至高480Mbps(1*1 SISO) WLAN热点 支持 蓝牙传输 支持蓝牙5.4 蓝牙音频规格 SBC;AAC;aptX;aptX HD;LDAC OTG 支持 USB接口类型 Type-C USB版本 USB 2.0 耳机接口标准 Type-C 导航 支持GPS：L1 北斗：B1I GLONASS：G1 Galileo：E1 QZSS：L1 支持AGPS、蜂窝网络定位、无线局域网定位 NFC 支持读卡器模式;卡模拟模式（vivo钱包支付，SIM 卡支付*，HCE 支付） *SIM 卡支付所使用的 SIM 卡只能放在 SIM 1 卡槽 云服务 支持"
+              },
+              null
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "WLAN功能",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "WLAN功能",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持 Wi-Fi 5（802.11ac）；支持 802.11a/b/g/n；支持 Wi-Fi Display；支持 WLAN 网络分享"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "传输协议",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "传输协议",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "USB 2.0"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "数据接口",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "数据接口",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "USB Type-C"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "耳机插孔",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "耳机插孔",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "3.5 毫米接口耳机"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "NFC",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "NFC",
+                "section": "数据功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "不支持"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "是否支持双卡",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "是否支持双卡",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "SIM卡类型",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "SIM卡类型",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "Nano-SIM 卡，Nano-USIM 卡"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "网络频段",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "网络频段",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "2G GSM：900/1800MHz；3G WCDMA：频段 1/5/8；4G LTE FDD：频段 1/3/5/8/28A；4G LTE TDD：频段 34/38/39/40/41；5G NR：n1/n3/n5/n8/n28A/n41/n48/n77/n78"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "运营商网络",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "运营商网络",
+                "section": "蜂窝网络",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "移动，联通，电信，广电 VoLTE"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "指纹解锁方式",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "指纹解锁方式",
+                "section": "生物识别",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "指纹类别：侧边指纹；指纹原理：电容指纹；指纹技术：电容指纹"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "卫星定位",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "卫星定位",
+                "section": "定位功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "北斗，GPS，GLONASS，Galileo，QZSS"
+              }
+            ]
+          },
+          {
+            "group": "连接与功能",
+            "label": "其他",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "其他",
+                "section": "定位功能",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "支持：A-GNSS 辅助定位，无线局域网定位，蜂窝网络定位"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spec-group-7",
+        "name": "其他官方参数",
+        "rows": [
+          {
+            "group": "其他官方参数",
+            "label": "产品颜色",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "产品颜色",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "岩白 岩白 海蓝 黑咖"
+              },
+              null
+            ]
+          },
+          {
+            "group": "其他官方参数",
+            "label": "物理规格",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "物理规格",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "高度 165.70mm 宽度 76.30mm 厚度 黑咖：8.09mm 岩白、海蓝：8.19mm 重量 黑咖：204g 岩白、海蓝:208g"
+              },
+              null
+            ]
+          },
+          {
+            "group": "其他官方参数",
+            "label": "建议零售价",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "建议零售价",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "全网通（V2445EA）上市价格： Y300t（12GB+512GB）：1699.00元 Y300t（12GB+256GB）：1499.00元 Y300t（8GB+256GB）：1299.00元 Y300t（8GB+128GB）：1199.00元"
+              },
+              null
+            ]
+          },
+          {
+            "group": "其他官方参数",
+            "label": "音乐与音响",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "音乐与音响",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "音乐播放器 AAC、WAV、M4A、MP3、MIDI、OGG、APE、FLAC MP3铃声 支持 录音 支持"
+              },
+              null
+            ]
+          },
+          {
+            "group": "其他官方参数",
+            "label": "内置应用",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "内置应用",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "社交 微博 影视音乐 i视频、vivo短视频 常用工具 蓝心小V、应用商店、i音乐、i主题、i管家、文件管理、游戏中心、云服务、互传、电子书 资讯娱乐 今日头条、淘宝 生活 智慧生活、钱包、vivo 健康 内置应用说明 以上内置应用列表仅供参考，请以实际内置应用为准。"
+              },
+              null
+            ]
+          },
+          {
+            "group": "其他官方参数",
+            "label": "进网信息",
+            "state": "unknown",
+            "values": [
+              {
+                "collected_at": "2026-10-23T10:51:45+00:00",
+                "label": "进网信息",
+                "section": "规格参数",
+                "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+                "value": "查看方式 本机型已取得电信设备进网许可，进网许可标志以电子显示方式呈现，请在手机中查看，查看方式：设置-系统管理-关于手机-法律信息-认证信息* *由于不同机型的查看路径存在差异，也可以通过手机的搜索功能搜索“认证信息”，即可对手机内置的电子进网许可标志快速查询。 真伪查验 您可在工业和信息化部政务服务平台（https://jwxk.miit.gov.cn）点击“真伪查询”链接。 证书信息 设备型号：V2445EA 许可证编号：02-B220-250022"
+              },
+              null
+            ]
+          },
+          {
+            "group": "其他官方参数",
+            "label": "感应器类型",
+            "state": "unknown",
+            "values": [
+              null,
+              {
+                "collected_at": "2026-10-31T02:46:25+00:00",
+                "label": "感应器类型",
+                "section": "感应器",
+                "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+                "value": "接近感应器，环境光传感器，电子罗盘，加速度传感器，侧边指纹传感器"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "product_ids": [
+      98,
+      86
+    ]
+  },
+  "decision": {
+    "conclusion": "vivo Y300t 当前待核价，不属于本次预算内推荐。现在不能说它在预算内，建议先核对所需配置的有效报价。",
+    "note": "特别留意：性能参数、尺寸重量 尚未核实。",
+    "status": "先核价再决定",
+    "summary": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+    "tone": "warning"
+  },
+  "generated_at": "2026-10-31T06:35:38.581554+00:00",
+  "limitations": [
+    "参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+    "报价采集日期与报告生成日期分别记录；超过有效期或不符合地区、库存和配置条件的报价不用于预算推荐。"
+  ],
+  "peer": {
+    "brand": "OPPO",
+    "budget_status": "配置报价在预算内",
+    "category": "手机",
+    "confidence": 100.0,
+    "facts": {
+      "battery_mah": {
+        "display": "6335–6500 mAh",
+        "label": "电池容量",
+        "max": 6500.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "6500 mAh/25.22 Wh（典型值）；6335 mAh/24.58 Wh（额定值）",
+        "unit": "mAh",
+        "value": 6335.0
+      },
+      "camera_mp": {
+        "display": "13 MP",
+        "label": "后置摄像头",
+        "max": 13.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "1300 万像素广角摄像头：f/2.2，等效焦距 27 毫米，4P 镜头，支持 AF 自动对焦；照片拍摄支持 10 倍数码变焦",
+        "unit": "MP",
+        "value": 13.0
+      },
+      "memory": {
+        "display": "6 GB",
+        "label": "当前报价配置 RAM",
+        "max": 6.0,
+        "qualifier": "仅对应本次报价的具体配置，不取系列最高可选内存",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766",
+        "unit": "GB",
+        "value": 6.0
+      },
+      "refresh": {
+        "display": "120 Hz",
+        "label": "屏幕刷新率",
+        "max": 120.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "60/90/120Hz 智能切换，最高支持 120Hz",
+        "unit": "Hz",
+        "value": 120.0
+      },
+      "screen_inches": {
+        "display": "6.75 英寸",
+        "label": "屏幕尺寸",
+        "max": 6.75,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "6.75 英寸",
+        "unit": "英寸",
+        "value": 6.75
+      },
+      "weight": {
+        "display": "212 g",
+        "label": "重量",
+        "max": 212.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+        "text": "约 212g",
+        "unit": "g",
+        "value": 212.0
+      }
+    },
+    "id": 86,
+    "image_url": "/api/product-images/9878fe2a42331979efeb4d8decb67f18c3e65d66cbae9d381268bd505e4fb315.png",
+    "name": "OPPO K15x",
+    "offer": {
+      "amount": 1699.0,
+      "availability": "in_stock",
+      "condition_note": "全新",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "currency": "CNY",
+      "id": 406,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "platform": "品牌官网",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 86,
+      "purchase_url": "",
+      "region": "中国大陆",
+      "snapshot_path": "data\\store_snapshots\\844871d527afaf5945aed74a64bb75533639ab20cf1d9d48075cf6596ca9b097.html",
+      "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+      "variant": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766"
+    },
+    "parameter_region_note": "",
+    "price": 1699.0,
+    "recommendation_eligible": true,
+    "recommendation_tier": "verified",
+    "score": 67.99,
+    "source_url": "https://www.opposhop.cn/cn/web/products/52766.html",
+    "subcategory": "直板手机"
+  },
+  "product": {
+    "brand": "vivo",
+    "budget_status": "待核价",
+    "category": "手机",
+    "confidence": 36.0,
+    "facts": {
+      "battery_hours": {
+        "display": "26.4 小时",
+        "label": "电池信息",
+        "max": 26.4,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+        "text": "电池容量 *本产品采用单电芯设计： 典型容量：6500mAh(3.91V) 典型能量：25.42Wh 额定容量：6360mAh(3.91V) 额定能量：24.87Wh 充电规格 44W 电池类型 锂离子电池 OTG反向充电 支持 理论待机时间 理论单卡4G待机时间：最长可达26.9天。 理论4G Volte通话时长：最长可达26.4小时。 备注：数据为我司实验室标准环境下的测试结果，实际待机、通话时间，视当地的实际网络情况和使用习惯而有所不同。",
+        "unit": "小时",
+        "value": 26.4
+      },
+      "battery_mah": {
+        "display": "6360–6500 mAh",
+        "label": "电池信息",
+        "max": 6500.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+        "text": "电池容量 *本产品采用单电芯设计： 典型容量：6500mAh(3.91V) 典型能量：25.42Wh 额定容量：6360mAh(3.91V) 额定能量：24.87Wh 充电规格 44W 电池类型 锂离子电池 OTG反向充电 支持 理论待机时间 理论单卡4G待机时间：最长可达26.9天。 理论4G Volte通话时长：最长可达26.4小时。 备注：数据为我司实验室标准环境下的测试结果，实际待机、通话时间，视当地的实际网络情况和使用习惯而有所不同。",
+        "unit": "mAh",
+        "value": 6360.0
+      },
+      "refresh": {
+        "display": "120 Hz",
+        "label": "屏幕显示",
+        "max": 120.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+        "text": "尺寸（英寸） 6.72英寸 屏幕比例 20.1:9 屏占比 91.49% 分辨率 2408x1080 屏幕色彩 1670万色 HDR技术 支持 对比度 1400:1 屏幕材质 LCD 触摸屏 电容式多点触控 刷新率 最大支持120Hz",
+        "unit": "Hz",
+        "value": 120.0
+      },
+      "screen_inches": {
+        "display": "6.72 英寸",
+        "label": "屏幕显示",
+        "max": 6.72,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+        "text": "尺寸（英寸） 6.72英寸 屏幕比例 20.1:9 屏占比 91.49% 分辨率 2408x1080 屏幕色彩 1670万色 HDR技术 支持 对比度 1400:1 屏幕材质 LCD 触摸屏 电容式多点触控 刷新率 最大支持120Hz",
+        "unit": "英寸",
+        "value": 6.72
+      }
+    },
+    "id": 98,
+    "image_url": null,
+    "name": "vivo Y300t",
+    "offer": null,
+    "parameter_region_note": "",
+    "price": null,
+    "recommendation_eligible": false,
+    "recommendation_tier": "verified",
+    "score": 28.47,
+    "source_url": "https://www.vivo.com.cn/vivo/param/y300t",
+    "subcategory": "直板手机"
+  },
+  "profile": {
+    "budget": 2000.0,
+    "category": "手机",
+    "needs": "核对预算、配置和使用体验",
+    "scenario": "办公",
+    "summary": null,
+    "weights": {
+      "battery": 14.0,
+      "camera": 7.0,
+      "ease": 12.0,
+      "performance": 22.0,
+      "portability": 12.0,
+      "price": 23.0,
+      "screen": 10.0
+    }
+  },
+  "quotes": [
+    {
+      "active": false,
+      "amount": null,
+      "conditions": null,
+      "historical": null,
+      "merchant": null,
+      "name": "vivo Y300t",
+      "observed_at": null,
+      "price_type": null,
+      "product_id": 98,
+      "source_id": null,
+      "status": "待核价",
+      "variant": null
+    },
+    {
+      "active": true,
+      "amount": 1699.0,
+      "availability": "in_stock",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "historical": null,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "name": "OPPO K15x",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 86,
+      "source_id": "S03",
+      "status": "配置报价在预算内",
+      "url": "https://www.opposhop.cn/cn/web/products/52766.html",
+      "variant": "OPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766"
+    }
+  ],
+  "reasons": [
+    {
+      "check": "带着必须使用的软件或游戏清单，核对系统与配置；有条件时查看同配置实测。",
+      "evidence": "当前资料未提供足够的可核对信息",
+      "known": false,
+      "label": "性能参数",
+      "meaning": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+      "metric": "performance",
+      "rule": "当前资料尚未明确这项能力；未披露不代表不支持。",
+      "source_id": null,
+      "title": "日常配置是否够用"
+    },
+    {
+      "check": "确认充电器是否随附、充电协议和日常充电习惯；优先参考同配置续航实测。",
+      "evidence": "6360–6500 mAh",
+      "known": true,
+      "label": "续航参数",
+      "meaning": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+      "metric": "battery",
+      "rule": "按本类产品预设区间换算参考分",
+      "source_id": "S01",
+      "title": "少一点充电焦虑"
+    },
+    {
+      "check": "确认所选容量与配色版本的重量，尽量握持试一下手感。",
+      "evidence": "当前资料未提供足够的可核对信息",
+      "known": false,
+      "label": "尺寸重量",
+      "meaning": "经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。",
+      "metric": "portability",
+      "rule": "当前资料尚未明确这项能力；未披露不代表不支持。",
+      "source_id": null,
+      "title": "带着走是否轻松"
+    }
+  ],
+  "sections": [
+    {
+      "body": "你的需求：核对预算、配置和使用体验。\n预算上限：¥2,000；手动选择的报告对象：vivo Y300t。\nvivo Y300t 当前待核价，不属于本次预算内推荐。现在不能说它在预算内，建议先核对所需配置的有效报价。\n特别留意：性能参数、尺寸重量 尚未核实。",
+      "title": "选购结论"
+    },
+    {
+      "body": "日常配置是否够用\n依据：当前资料未提供足够的可核对信息。\n先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。\n购买前：带着必须使用的软件或游戏清单，核对系统与配置；有条件时查看同配置实测。\n少一点充电焦虑\n依据：6360–6500 mAh。\n续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。\n购买前：确认充电器是否随附、充电协议和日常充电习惯；优先参考同配置续航实测。\n带着走是否轻松\n依据：当前资料未提供足够的可核对信息。\n经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。\n购买前：确认所选容量与配色版本的重量，尽量握持试一下手感。",
+      "title": "为什么适合你"
+    },
+    {
+      "body": "vivo Y300t：当前待核价，仅供比较；先核价或选择预算内候选。\n需要补充：性能参数、尺寸重量。\nOPPO K15x：当前资料不足以说明它在关注维度明显领先，优先确认具体配置与使用习惯。\n规格优势不等于实际体验，仍需核对测试条件与具体版本。\n有产品缺少有效报价，暂不计算价差。\nvivo Y300t：待核价；待核价。暂无有效报价。\nOPPO K15x：¥1,699；配置报价在预算内。报价来源：https://www.opposhop.cn/cn/web/products/52766.html\n参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+      "title": "两款怎么取舍"
+    },
+    {
+      "body": "待核价，不能计算余额：待核价。\n当前不构成预算内推荐。这笔差额尚未计入配件和运费；请核对必要配件报价后，再确认实际总支出。\n配件核对：保护壳、充电器是否随附，以及必要的数据迁移与设置。\nvivo Y300t：待核价；待核价。\n没有有效配置报价；历史资料不计入本次预算。\nOPPO K15x：¥1,699；配置报价在预算内。\nOPPO 中国官方商城 · 配置报价\nOPPO K15x 冰川白 6GB+128GB 官方标配 · SKU 52766\n采集时间：2026-10-31T02:46:25+00:00\n条件：当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "title": "预算与报价凭据"
+    },
+    {
+      "body": "1. 先核对完整配置：对照型号、容量、地区、全新或二手状态及装箱清单；保护壳、充电器是否随附，以及必要的数据迁移与设置。先统一配置，再把最终支付总额与预算对照。\n2. 再确认实际体验：先看你每天的使用方式：通勤刷视频更值得关注续航和重量；拍娃、旅行则要看常用焦段的实拍。不要只因为芯片型号更新就提高预算。\n3. 最后确认店铺与售后：核对经营主体、官方或自营身份、发票、保修与到货时间。补贴、会员券、以旧换新满足条件后再计算；问清拆封、试用和退换规则，超出硬预算时先不下单。",
+      "title": "购买行动清单"
+    },
+    {
+      "body": "[S01] vivo Y300t · 参数原文：https://www.vivo.com.cn/vivo/param/y300t；采集于 2026-10-23T10:51:45+00:00\n[S02] OPPO K15x · 参数原文：https://www.opposhop.cn/cn/web/products/52766.html；采集于 2026-10-31T02:46:25+00:00\n[S03] OPPO K15x · OPPO 中国官方商城：https://www.opposhop.cn/cn/web/products/52766.html；采集于 2026-10-31T02:46:25+00:00\n参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。\n报价采集日期与报告生成日期分别记录；超过有效期或不符合地区、库存和配置条件的报价不用于预算推荐。",
+      "title": "来源与说明"
+    }
+  ],
+  "selection": {
+    "eligible_count": 3,
+    "is_system_choice": false,
+    "label": "手动选择的报告对象",
+    "mode": "manual",
+    "rank": null
+  },
+  "sources": [
+    {
+      "host": "www.vivo.com.cn",
+      "id": "S01",
+      "kind": "参数",
+      "label": "vivo Y300t · 参数原文",
+      "observed_at": "2026-10-23T10:51:45+00:00",
+      "url": "https://www.vivo.com.cn/vivo/param/y300t"
+    },
+    {
+      "host": "www.opposhop.cn",
+      "id": "S02",
+      "kind": "参数",
+      "label": "OPPO K15x · 参数原文",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "url": "https://www.opposhop.cn/cn/web/products/52766.html"
+    },
+    {
+      "host": "www.opposhop.cn",
+      "id": "S03",
+      "kind": "报价",
+      "label": "OPPO K15x · OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:46:25+00:00",
+      "url": "https://www.opposhop.cn/cn/web/products/52766.html"
+    }
+  ],
+  "system_choice": {
+    "brand": "一加",
+    "budget_status": "配置报价在预算内",
+    "category": "手机",
+    "confidence": 100.0,
+    "facts": {
+      "battery_mah": {
+        "display": "6830–7000 mAh",
+        "label": "电池容量",
+        "max": 7000.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "7000 mAh/27.44 Wh（典型值），等效 7000 mAh 电池能量；6830 mAh/26.78 Wh（额定值），等效 6830 mAh 电池能量",
+        "unit": "mAh",
+        "value": 6830.0
+      },
+      "camera_mp": {
+        "display": "2–50 MP",
+        "label": "后置摄像头",
+        "max": 50.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "5000 万像素广角摄像头：f/1.8，等效焦距 27 毫米，5P 镜头，支持 AF 自动对焦；200 万像素黑白摄像头：f/2.4，等效焦距 22 毫米，3P 镜头；照片拍摄最高支持 10 倍数码变焦",
+        "unit": "MP",
+        "value": 2.0
+      },
+      "memory": {
+        "display": "8 GB",
+        "label": "当前报价配置 RAM",
+        "max": 8.0,
+        "qualifier": "仅对应本次报价的具体配置，不取系列最高可选内存",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "一加 Turbo 6X 白里挑一 8GB+128GB 官方标配 · SKU 41211",
+        "unit": "GB",
+        "value": 8.0
+      },
+      "refresh": {
+        "display": "120–144 Hz",
+        "label": "屏幕刷新率",
+        "max": 144.0,
+        "qualifier": "原文含不同配置或使用模式，需核对具体条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "60/90/120Hz 智能切换，最高支持 144Hz",
+        "unit": "Hz",
+        "value": 120.0
+      },
+      "screen_inches": {
+        "display": "6.72 英寸",
+        "label": "屏幕尺寸",
+        "max": 6.72,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "6.72 英寸",
+        "unit": "英寸",
+        "value": 6.72
+      },
+      "weight": {
+        "display": "208 g",
+        "label": "重量",
+        "max": 208.0,
+        "qualifier": "保留官网测试及配置条件",
+        "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+        "text": "约 208g",
+        "unit": "g",
+        "value": 208.0
+      }
+    },
+    "id": 113,
+    "image_url": "/api/product-images/52d18f485aac25a794d4d4dda4ac3cc45cd489191bfa94508b764e4062a8c8d1.png",
+    "name": "一加 Turbo 6X",
+    "offer": {
+      "amount": 1899.0,
+      "availability": "in_stock",
+      "condition_note": "全新",
+      "conditions": "当前SKU公开全额标价；不计消费券、补贴、以旧换新和预估到手价。库存状态以采集时页面为准，最终支付以结算页为准。",
+      "currency": "CNY",
+      "id": 416,
+      "item_condition": "new",
+      "merchant": "OPPO 中国官方商城",
+      "observed_at": "2026-10-31T02:47:02+00:00",
+      "platform": "品牌官网",
+      "price_basis": "direct",
+      "price_type": "配置报价",
+      "product_id": 113,
+      "purchase_url": "",
+      "region": "中国大陆",
+      "snapshot_path": "data\\store_snapshots\\2b0520b380c325e0c123c6782855538ad9d0db66a7aa731ae7becf52a04b825d.html",
+      "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+      "variant": "一加 Turbo 6X 白里挑一 8GB+128GB 官方标配 · SKU 41211"
+    },
+    "parameter_region_note": "",
+    "price": 1899.0,
+    "recommendation_eligible": true,
+    "recommendation_tier": "verified",
+    "score": 73.46,
+    "source_url": "https://www.opposhop.cn/cn/web/products/41211.html",
+    "subcategory": "直板手机"
+  },
+  "title": "2,000元手机选购建议",
+  "tradeoff": {
+    "caveat": "参数和当前偏好规则用于解释选择，不代表续航、性能、音质或画质实测。",
+    "choices": [
+      {
+        "caution": "需要补充：性能参数、尺寸重量。",
+        "name": "vivo Y300t",
+        "product_id": 98,
+        "when": "当前待核价，仅供比较；先核价或选择预算内候选。"
+      },
+      {
+        "caution": "规格优势不等于实际体验，仍需核对测试条件与具体版本。",
+        "name": "OPPO K15x",
+        "product_id": 86,
+        "when": "当前资料不足以说明它在关注维度明显领先，优先确认具体配置与使用习惯。"
+      }
+    ],
+    "gap_note": "有产品缺少有效报价，暂不计算价差。",
+    "price_gap": null,
+    "rows": [
+      {
+        "known": [
+          false,
+          true
+        ],
+        "label": "性能参数",
+        "metric": "performance",
+        "note": "先满足常用应用和软件的配置需求，再考虑额外性能余量。内存、核心数不能直接代表跨平台运行速度。",
+        "values": [
+          "未披露 / 暂无可核对信息",
+          "6 GB"
+        ]
+      },
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "续航参数",
+        "metric": "battery",
+        "note": "续航相关规格值得优先核对，但标称容量与厂商测试时间不能直接换算成你的使用天数。",
+        "values": [
+          "6360–6500 mAh",
+          "6335–6500 mAh"
+        ]
+      },
+      {
+        "known": [
+          false,
+          true
+        ],
+        "label": "尺寸重量",
+        "metric": "portability",
+        "note": "经常通勤、随身携带或长时间握持时，重量会影响使用负担；配件和充电器也要一起考虑。",
+        "values": [
+          "未披露 / 暂无可核对信息",
+          "212 g"
+        ]
+      },
+      {
+        "known": [
+          true,
+          true
+        ],
+        "label": "操作与兼容",
+        "metric": "ease",
+        "note": "先核对常用设备、软件和操作方式，连接功能多不代表操作一定简单。",
+        "values": [
+          "USB-C、蓝牙、无线网络、NFC",
+          "USB-C、蓝牙、无线网络"
+        ]
+      }
+    ]
+  },
+  "version": 2
+}
